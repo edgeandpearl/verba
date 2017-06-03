@@ -1,0 +1,334 @@
+звук / запах / взгляд / выражение / речь	sound / scent / stare / expression / speech
+растение / лицо	plant / human
+фотография	photo
+боеприпас	weapon
+сооружение / участок местности	construction / area
+аудионоситель	audio record
+текст	text
+веревка	rope
+"как", "так"	"как", "так"
+инструмент-место	instrument / place
+одушевленный / транспорт	animate / place
+"тьма", "мгла", "туман", "влага"	"тьма", "мгла", "туман", "влага"
+игральная карта	playing card
+оружие / абстрактный	weapon / abstract
+множества и совокупности объектов	set of objects
+лицо / транспортное средство	human / transport
+вещество	substance
+музыкальное произведение	music
+спектакль	performance
+"голова", "кость"	"голова", "кость"
+"газета"	"газета
+совокупность / множество / форма	set of objects / shape
+абстрактный / транспортное средство	abstract / transport
+главное	main
+строение или его часть	building (whole or part)
+ветер	wind
+награда	award
+"радио", "телевидение"	"радио", "телевидение"
+похвалы	praise
+должность	job position
+"ход", "дело"	"ход", "дело"
+текст / речь / произведение	text / speech / сomposition
+часть тела: "ноги", "лапы" 	 body part
+зрительная система	sight
+счет, победа	count, win
+запах	scent
+душа	soul
+инструмент / часть тела	instrument / body part
+пропозиция	proposition
+одежда / обувь	clothes / shoes
+транспортное средство	transport
+участок местности	area
+лицо / воинское подразделение	human / military unit
+рука	hand / arm
+документ	document
+помещение	room
+оружие	weapon
+запах, вещество	scent, substance
+тип почерка	handwriting
+фильм, спектакль, книга	movie, performance, book
+дейктический	deictic
+вирус	virus
+природа	nature
+"стихи", "проза" etc.	"стихи", "проза" etc.
+общественность	society
+жидкость	liquid
+графический объект	graphic object
+денежные средства	money
+группа / организация	group / organisation
+лицо / предметный	human / object
+живой организм	living matter
+растение / животное	plant / animal
+чувствовать, знать	feel, know
+учебное заведение	school
+учреждение	institution
+вместилище	container
+сооружение / населенный пункт	building / living area
+время, силы	time, power
+религия	religion
+приспособление	instrument
+игра	game
+газ	gas
+вина, преступление	blame, crime
+лицо/организация	human/organisation
+дисплей	display
+множество	set
+транспорт / лицо	transport / human
+мероприятие	event
+текст / документ	text / document
+медицинская процедура	medical procedure
+река	river
+метроприятие	event
+воинское звание	military rank
+лицо / организация / транспортное средство	human / organisation / transport
+абстрактный / пропозиция	abstract / proposition
+лицо / текст	human / text
+?	?
+изображение	image
+произведение	composition
+инфекция	infection
+музыкальный инструмент	musical instrument
+"спать"	"спать"
+твердый предмет	solid object
+животное / растение	animal / plant
+грамматическая категория	grammatical category
+эмоция / речь	emotion / speech
+результат	result
+голос	voice
+движение	movement
+способ	way of action
+рычаг	lever
+указательное	deictic
+визит	visit
+вещество_материал	substance / material
+мероприятие / организация	event / organisation
+-	-
+возникновение	emergence
+транспортное средство / животное	transport / animal
+ключ	key
+признак	feature
+фамилия	surname
+текст / мероприятие	text / event
+инструмент, часть тела	instrument, body part
+0	0
+"далеко"	"далеко"
+абстрактный / время	abstract / time
+оценка	grade
+рейтинг	rating
+устройство / часть тела	mechanism / body part
+часть тела	body part
+"борода", "усы"	"борода", "усы"
+неодушевленный	inanimate
+заболевание	disease
+действие	action
+аэропорт / населенный пункт	airport / living area
+"повод", "причина"	"повод", "причина"
+часть растения	part of a plant
+"жанр"	"жанр"
+существование	existence
+растительность	plants
+лицо / пропозиция	human / proposition
+представление	performance
+слово	word
+лекарство / медицинская процедура	medicine / medical procedure
+актив / копилка	saved money
+место	place
+выражение	expression
+танец	dance
+курс, валюта	currency
+огонь	fire
+средство связи	means of communication
+транспортное_средство	transport
+душа, сердце	heart, soul
+рыба	fish
+одушевленный / растение	animate / plant
+фотоснимок	photo
+сыпучее вещество	bulk substance
+растение	plant
+театр	theatre
+устройство	mechanism
+ментальная сфера	mental sphere
+возможность	possibility
+лицо, организация	human, organisation
+возраст	age
+абстрактный	abstract
+часть тела, часть	(body) part
+сверхъестественная сила	supernatural power
+абстрактное имя	abstract name
+санки	sleigh
+мера	measure
+ситуация	situation
+число	number
+часть	part
+"плевать"	"плевать"
+природная сила	natural power
+физиологическое состояние	physical state
+лицо / армия	human / army
+постель	bed
+документ / текст	document / text
+природные ресурсы	nature resources
+уступка	concession
+оценочный	estimation
+изменение состояния или признака	change of state
+отметка	mark
+носитель признака	characteristic carrier
+часть спектакля	part of performance
+лицо, организация, наука	human, organisation, science
+"сила", "действие"	"сила", "действие"
+речь	speech
+церковь	church
+медицинское учреждение	medical institution
+организация	organisation
+дорога, река	road, river
+транспорт / организация	transport, organisation
+себя	self
+- 	- 
+специальность	specialty
+лицо / произведение искусства	human / piece of art
+информация	information
+часть тела / абстрактный	body part / abstract
+объем, количество	volume, quantity
+одушевленный / растительность	animate / plant
+глаза / уши	eyes / ears
+качество	quality
+шаг	step
+"проблема", "трудности", "вопрос"	"проблема", "трудности", "вопрос"
+речь / музыка	speech, music
+элементарные частицы	elementary particles
+"силы"	"силы"
+пропозиция: косвенный вопрос	proposition: indirect question
+врач / медицинское учреждение	doctor / medical institution
+механизм	mechanism
+степень	degree
+абстрактный / транспорт	abstract / transport
+абстрактный / организация	abstract / organisation
+местоимение	pronoun
+легко, тепло, хорошо, плохо	light, warm, good, bad, etc
+спорт	sport
+одежда_обувь	clothes, shoes
+художественный образ	artistic image
+болезнь, симптом	disease, symptom
+лицо / транспорт	human / transport
+время	time
+музыкальная партия	musical part
+пациенс / результат	pacient / result
+"улица"	"улица"
+водоем	body of water
+звук	sound
+"предел", "кадр", "рамка"	"предел", "кадр", "рамка"
+финансы	money
+звук / текст / речь / произведение	sound / text / speech / work of art
+геометрическая фигура	geometric shape
+"роль"	"роль"
+мягкий объект	soft object
+направление	direction
+спортсмен / спортивная организация	sportsman / sport organisation
+лицо / организация	human / organisation
+указательное / речь	deictic / speech
+текст, звук	text, sound
+лицо / организация / абстрактный	human / organisation / abstract
+язык	language
+дейсис	deictic
+тема	theme
+насекомое	insect
+состояние	condition
+телефон	phone
+транспорт, спортинвентарь	transport, sportsgear
+имя	name
+периферия	periphery
+память	memory
+сорт / порода / растение / животное	sort / breed / plant / animal
+природный объект	nature object
+текст, разговор	text, dialogue
+еда_напитки	food, drink
+дорога	road
+бытийный	existential
+предметный / птицы	object / birds
+"следы", "мусор"	"следы", "мусор"
+лицо / группа	human / group
+билет	ticket
+контейнер	container
+эффектор	effector
+дело	matter
+предметное имя	object
+предметный	object
+мебель	furniture
+предмет	object
+лицо	human
+пространство	space
+жидкость: спирт, самогон	(alcoholic) liquid
+вещество / абстрактный	substance / abstract
+организация / группа	organisation / group
+одушевленный	animate
+профессия	profession
+спина	back
+инструмент	instrument
+крюк	hook
+лицо / камера	human / camera
+частотный диапазон	frequency range
+предметный / "роль"	object / "роль"
+параметр	parameter
+лицо / часть тела	human / body part
+плод	fruit
+продукт питания	food
+транспорт	transport
+часть тела / инструмент	body part / instrument
+удар	punch
+"берег"	"берег"
+деньги	money
+грудь	breast
+жанр	genre
+ум	intelligence
+часть тела / часть механизма	body/mechanism part
+частота	frequency
+лицо, сердце	human, heart
+абстрактный / лицо	abstract / human
+абстрактный / текст	abstract / text
+одушевленный / организация	animate / organisation
+кратность	multiplicity
+жидкость / водоем	liquid / body of water
+речь / текст / произведение	speech / text / composition
+время, мероприятие	time, event
+одушевленный / транспортное средство	animate / transport
+слово или его часть	word (whole or part)
+алкоголь	alcohol
+шея	neck
+лицо / абстрактный	human / abstract
+механизм_прибор	mechanism
+одушевленный / механизм	animate / mechanism
+смысл	sense
+род деятельности	occupation
+животное	animal
+слух, ощупь	hearing, feeling
+персонаж	character
+произведение искусства	work of art
+голос / звук	voice / sound
+всё	all
+волосы	hair
+праздник	holiday
+рамка	frame
+лицо, группа	human, group
+группа лиц	group of people
+медицинское мероприятие	medical event
+окно, вместилище	window, container
+лицо / силы	human / power
+глаза / взгляд	eyes / stare
+геометрический объект	geometric object
+глаза	eyes
+песня	song
+эмоция	emotion
+одушевленный / часть тела	animate / body part
+отверстие, канал	hole
+единица измерения	measure unit
+название	title
+голова	head
+деньги, предметный	money, object
+растение / плод	plant / fruit
+одежда	clothes
+группа	group
+непредметный	non-object
+целое	whole
+радио / телевизор	radio / TV
+часть_тела	body part
+сооружение	construction

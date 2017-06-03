@@ -1,0 +1,2905 @@
+Snom обнаружить CL
+Snom возвращать Sacc {ADV / PRкуда + Sx}
+Snom _V_ себя {ADV / PRгде + Sx}
+{если / когда} Vimpers, CL
+{голова / башка / котелок} у + него V
+Snom V на + веслах
+Snom V голову на + отсечение, что + CL
+Snom V Sacc против + шерсти
+Snom V в + загадки
+Snom V Ains + кашлем
+Snom V Sdat что + CL
+Snom V на + Sacc что + CL
+Snom V при + Sloc
+Snom V Sacc со + всех + сторон
+Snom V Sdat {мораль / наставления / нотации / нравоучения / проповеди}
+Snom V пока + CL
+Snom V на + пользу Sdat
+не могу знать [Rel + CL]
+Snom V {должное / справедливость} Sdat
+Snom V вопрос по + Sdat
+Snom V Sacc в + виде + Sgen
+сердце падает [в + груди] [у + Sacc]
+Snom V Sacc в + душе
+Snom не V себя от + Sgen
+Snom V Sacc с + Sgen
+Snom V Sacc PRкуда + Sx Sins
+с + какими + глазами SPROnom V {ADV / PRгде + Sx} [Sdat]
+Snom V {ряды / строй}
+Snom V язык на + привязи
+Snom V Sacc {ADV / Sins}
+Snom V тень на + Sacc
+Vimper CL
+Snom V кукушку на + ястреба
+Snom V пятно на + Sacc
+Snom V Sacc в + честь + Sgen
+Snom V в + роль [-> Sgen]
+Snom не V ни в + какое + сравнение [с + Sins]
+Snom V себя с + {NUMgen / Agen} + лет
+V что + CL
+Snom оказаться под + колесами [-&gt; Sgen]
+Snom V над + Sins с + Sins
+Snom V сложа руки
+Snom _V_ Vinf Sdat
+Snom спать и V {Sacc / Vinf / как + бы + Vinf / как + CL / чтобы + CL}
+Snom V своим + Sdat
+Snom V от + нечего + делать
+Snom V «CL» PRкуда + Sx
+Snom V Sacc {ADV / как + Aacc}
+Snom V на + твердой + почве
+Snom V начало {ADV / PRоткуда + Sx}
+Snom V Sacc {ADV / Sins / ANUMgen + Sgen / в + Sacc / в + Sloc}
+Snom V Sacc во + сне
+Snom V Sacc Sdat от + Sgen
+Snom V свое
+Snom V Sacc Sins через + Sacc
+Snom V дифирамбы Sdat
+что и V CL
+{ADV / PRгде + Sx} V Conj + CL
+Snom течь {ADV / PRоткуда + Sx} у + Sgen
+стал вопрос, Rel + CL
+Snom V до + точки
+Snom V слова
+Snom V подножку Sdat
+Snom ждать Sgen
+Sgen Vimpers Sdat
+если Sdat не V память CL
+Snom V с + повинной {ADV / PRкуда + Sx}
+Snom V Sacc {Sins / с + помощью Sgen}
+Snom V кровь за + Sacc
+Snom V Sacc к + общему + знаменателю
+Snom V часы
+ищи - свищи [Sgen]
+Snom V Sacc CLi
+Snom _V_ Sacc Sdat {ADV / PRоткуда + Sx}
+Snom Vpass
+Snom _V_ против + Sgen {ADV / PRгде + Sx}
+SPROnom V с + Sins
+Snom V {с + Sins / как + Snom}
+Snom V под + сукном
+Snom V на + себя смелость [Vinf]
+Snom V {на + волоске / на + нитке / на + ниточке}
+Snom V Sacc {Ains + тиражом / тиражом + в + Sacc}
+Snom V Sacc {ADV / PRкуда + Sx}
+CL и не {говори / говорите}!
+Snom V как + CL
+Snom V Sacc как свои + пять + пальцев
+Snom V на + Sloc {ADV / PR + Sx}
+Snom V для + Sgen
+Snom V Sacc
+Sgen V в + Sacc
+что вы говорите!
+Snom V {о + Sloc / Conj + CL / Rel + CL} Sdat
+Snom V {ADV / Sacc} {ADV / PRгде + Sx}
+Snom V {на фоне + Sgen / на + Aloc + фоне} Sins
+Snom V себя в + Sloc
+Snom V из + доверия
+Snom V рыбу в + мутной + воде
+Snom V с + Sins по + Sdat
+Snom V под + знаком + Sgen
+Snom V Sacc Sdat за + Sacc
+на + воре шапка горит
+Snom V {лямку / службу}
+Snom V дело в + долгий + ящик
+Snom V между + Sins
+Snom V вопрос CL
+Snom _V_ Sacc
+Snom V под + венец [с + Sins]
+Snom V {ADV / PRкуда + Sx} {ADV / PRтраект + Sx}
+Snom V Sacc Sins {ADV / PRгде + Sx}
+Snom V Sacc на + Sacc у + Sgen
+Snom отбросить Sacc
+Snom V Sacc в + Sacc через + Sacc
+Snom V от + Sgen Sacc
+Snom V {ADV / PRгде + Sx} {ADV / Sgen / PR + Sx}
+Snom V на + трон
+Snom V себя Sins
+Snom {не / едва} V на + ногах
+до + Sgen Vimpers что + CL
+что касается Sgen CL
+Sdat Vimpers Vinf
+Snom V к + шапочному + разбору
+Snom V Sacc в + пример Sdat
+Snom V Sacc в + стороне
+Snom V {Sacc / через + Sacc}
+Snom _V_ Sacc на + попечение + Sgen
+Snom V на + яйца
+Snom V PRгде + Sx Sins
+Snom V косо на + Sacc
+Snom V в + курс + дела
+Snom V по + Sdat
+ему нечего V [кроме + Sgen]
+как полагается, CL
+Snom V из-за + Sgen
+Snom V слово
+Snom V до + Sgen на + Sloc
+Snom V {ADV / Sacc} у + Sgen
+Snom V над + душой у + Sgen
+Snom _V_ {Sacc / Spart} к + Sdat за + Sacc
+Snom V Sacc PRкуда + Sx Sdat
+Snom V Sdat Sacc {в + Sacc / на + Sacc}
+{Snom / Vinf} V Sdat чтобы + CL
+дело не ждет
+Snom V на + свет
+Snom V {ADV / PRкуда + Sx} с + Sins
+Snom V под + защиту Sacc
+ума не приложу, Rel + CL
+Snom V [на + Sacc] [смелость] [Vinf]
+Vpass Snom в + Sacc
+Snom V лапшу на + уши Sdat
+{время / день} V когда + CL
+Snom V Sacc в + связь [с + Sins]
+{Snom / Vinf} V Sdat для + Sgen
+Snom V {пальцы / руки}
+в + Sloc Vimpers «CL»
+Snom V Sacc {на + Sacc / в + Sacc}
+Snom V {Sacc / Rel + CL / CL} с + Sins
+Snom V Sacc PRоткуда + Sx
+VPinf _V_ PRAEDIC
+Snom V Sacc на + Sacc [на + голову + Sgen]
+Snom быть на + Aloc + стороне
+Snom V Sacc {к + Sdat / в + Sacc / на + Sacc} Sins
+Snom дорого V свою + жизнь
+Snom V пыль в + глаза Sdat
+Snom V сказать CL
+Snom V {Ains / один / Sins / ADV} для + Sgen
+Snom _V_ с + Sins в + Sacc
+Snom V на + Sacc за + Sacc
+глаза горят на + Sacc
+Snom V Sacc Sdat Sins
+это Sdat даром не пройдет
+Snom V на + ноги
+Snom V на + уровне + Sgen
+Snom _V_ {ADV / PRгде + Sx} {ADV / PR + Sx}
+Snom V в + хвост и в + гриву
+Snom V маску
+[CL] [и] ищи ветра в + поле
+PRгде + Sx Vimpers
+Snom V Sacc {в + лотерее / по + лотерейному + билету}
+Snom {что / чего / куда} V
+Snom V с + Sgen
+Snom V Conj + CL Sdat
+Snom V у + моря и ждать погоды
+не задумываясь CL
+Snom V Conj + CL Sins
+Snom V руку на + пульсе
+Snom не V ничего против + Sgen
+Snom V Sacc с + Sins  в + Sacc
+Snom V предложение [{на + обсуждение / на + рассмотрение}]
+Snom V перед + Sins PRгде + Sx
+Snom V Sacc PRоткуда + Sx Sdat
+Snom V ADV для + Sgen
+Snom V как на + иголках
+это не составит труда
+Snom V воду
+Snom V вопрос Sdat CL
+Snom и Snom V
+как рукой сняло CL
+Snom V ADV о + Sloc
+Sacc V Vinf
+Snom V вопрос Sdat
+Snom V на + нет
+из + Sgen Vimpers что + CL
+_Vimpers_ Sacc
+Snom V ADV на + Sloc
+Snom V Sacc со + специальностью + {«Snom» / Sgen}
+Snom V на + бобах
+Snom V {под + именем + Sgen / под + Ains + именем}
+Snom V Sacc {ADV / PRоткуда + Sx} {ADV / PRкуда + Sx} Sdat
+до + Sgen Vimpers
+Snom V команду
+Snom обнаружить Sacc
+Snom V добром Sacc
+Snom V Sacc из + рук
+Snom V {в + APROloc + глазах / в + APROloc + мнении}
+Snom V {о + Sloc / что + CL} Sdat
+Snom V {Vinf / что + CL} Sdat
+Snom обнаружить Sacc {ADV / PRгде + Sx}
+Snom V Sacc сквозь + строй
+Snom V поперек + горла Sdat
+Snom V Sacc Sdat по + Sdat
+тюрьма плачет {о + Sloc / по + Sloc}
+Snom V Sacc из + Sgen {ADV / PRкуда + Sx}
+Snom V на + Sacc {ADV / PRкуда + Sx}
+Snom V {чтобы + CL / будто + CL}
+Snom V {Sacc / о + Sloc / что + CL / CL / Rel + CL} PRгде + Sx
+Snom V глухому обедню
+время не ждет
+Snom V Sacc на + свою + сторону
+{Sacc / Sgen / Sgen2} Vimpers
+Snom V {Ains + сном / сном + Sgen}
+Snom V Sacc {глазами / взглядом / взором}
+Snom V Sacc {позади + себя / за + собой / за + спиной}
+Snom V, как топор
+Snom V Sacc {ADV / PRоткуда + Sx} [по + Sdat]
+Snom оставлять V {многого / лучшего}
+Snom V из + уст + Sgen
+давай бог ноги
+Snom V Sacc обещаниями
+Snom V собой
+Snom V войной на + Sacc
+Snom V в + дураках
+Snom V чтобы + CL по + Sdat
+Snom V Sacc к + себе
+Snom V Sacc в + Sacc {ADV / Sins / PR + Sx}
+Snom еле ноги V
+Sdat не Vinf Vinf2
+Snom V Sins с + Sins
+Snom танцевать в + Sloc
+Vimpers что + CL
+«CL» Snom V Sdat
+как Vpartcp.pass CL
+Snom V {как / будто / словно} в + воду опущенный
+Snom _V_ ради + Sgen с + Sins
+Snom V о + себе Sdat
+Snom V выход Sdat
+Snom V {волком / букой}
+как {хотите / хочешь}
+Snom V {Sgen / Rel + CL} в + Sloc
+Snom _V_ Sacc {ADV / PRкуда + Sx} {ADV / PRкуда + Sx}
+Snom _V_ {Sacc / Conj + CL / Rel + CL} Ains + ушами
+Snom V в + доверие к + Sdat
+Snom V лицом в + грязь
+Vimpers Rel + CL
+Snom V до + Sgen от + Sgen
+Snom V Sacc в + жизнь
+Snom V Sacc поцелуями
+Snom V {Sacc / Spart} у + Sgen
+откуда Snom V у + Sgen
+Snom V Sacc Sins в + Sacc
+Snom V Sacc и Sacc
+Snom V {за + Sins / за + APROins + спиной}
+ум за + разум заходит
+Snom V на + мели
+Snom V баклуши
+Snom V себе
+Snom не обойдется даром Sdat
+Snom V Sacc {Sdat / перед + Sins} Sins
+Snom V себя PRгде + Sx
+Snom V руку {ADV / PRгде + Sx}
+Snom V на + Sacc Sdat
+как ни звучать [Snom] ADV [но] CL
+Snom V что + CL {в + Sloc / на + Sloc}
+Snom V [Sacc] даром
+Snom V в + глаза
+Snom V про + Sacc Sdat
+Snom V [Sacc]
+во + что бы то ни стало CL
+Snom V Sacc браком
+Snom V сколько + CL
+Snom V в + развалинах
+Snom V банк
+Snom V честь Sdat
+Sins Vimpers Sacc Sdat
+что [ты] {V / будешь + делать}?
+Snom V Sacc в + APROacc + распоряжение
+Snom V вечностью
+Snom V {Sins / с + Sgen}
+Snom V {ADV / в + Sacc}
+Snom V ADV «X»
+дело зашло далеко
+Snom V в + Sloc Sdat
+Snom V Sacc как зеницу + ока
+Snom V перед + Sins как + Snom
+Snom V на + Sacc с + Sins
+Snom V Sacc в + свою + веру
+Sacc Vimpers {ADV / PRкуда + Sx} {ADV / PRоткуда + Sx}
+Snom V мыльные + пузыри
+Snom _V_ {о + Sloc / про + Sacc}
+Snom V {ADV / Sacc} PR + Sx
+злые + огоньки V в + глазах
+Vimpers в + Sacc
+Snom V1 Rel V
+Snom V дверь {ADV / PRкуда + Sx}
+Snom V {«CL» / CL}
+Snom V Sacc в + долг
+{остановиться/успокоиться} на + достигнутом
+Snom V {Sacc / Vinf / чтобы + CL} Sdat
+Snom V Sacc между + Sins
+Snom V Sacc жизни
+Sgen Vimpers ADV
+Snom V в + обморок
+где попало V
+Snom V {в + основе / в + основании} -> Sgen
+Snom V ставку на + Sacc
+Snom V {до + Sgen / около + Sgen}
+Sdat V Snom
+Snom V о + Sloc {ADV / PRкуда + Sx}
+Snom V {ADV / Sacc} за + Sacc Sdat
+Snom V Sacc в + плен
+Snom V после + Sgen
+Snom _V_ Sacc перед + Sins
+Snom V Sacc чтобы + CL
+Snom V NUMacc в + Sloc
+Snom {ни во + что / ни в + грош} не V Sacc
+Snom V Spart
+Snom V душу
+от + Sgen Vimpers [на + Sacc]
+Snom V Sacc без + Sgen
+Snom V на + Sloc {ADV / PRкуда + Sx}
+Snom V Sacc за + бока
+Snom V словами
+Snom ничего не значить
+Snom V [Sacc] на + помощь
+Snom V Sacc с + себя
+Snom V язык Sdat
+Snom V {SPROacc / ADVPRO} Sdat
+Snom V Sdat по + поводу + Sgen
+со всеми Vpartcp.act.ins.sg [отсюда] [последствиями]
+может быть, CL
+Snom V Sacc {PR + Sx / Sins}
+Snom возвращать Sacc ADV / PRоткуда + Sx {ADV / PRкуда + Sx}
+Snom V {головомойку / нагоняй} Sdat
+Snom V {ADV / c + Sins}
+пока душа держится в + APROloc + теле CL
+Snom не V света
+Snom V якорь
+сколько себя помню CL
+Snom _V_ в + голову Sdat
+Snom V [{Aacc / Sgen}] роль {ADV / PRгде + Sx}
+Snom V под + охрану Sacc
+Sins Vimpers Sacc {ADV / PRкуда + Sx}
+Snom V за + ум
+голова идет кругом CL
+Snom не V Sgen
+Snom {угощать / кормить} Sacc чем бог послал
+Snom V той + же + монетой
+как Snom V Rel + CL
+[{если + CL / когда + CL}] Snom _V_ что + CL
+Snom V {обещание / слово} с + Sacc
+Snom V счет
+Snom V Sacc [{ADV / PRгде + Sx}]
+Snom V {в + мир + иной / в + лучший + мир}
+Snom V скобки
+Snom V {на + APROloc + шее / на + шее -> у + Sacc}
+Snom V что + CL
+Snom V Sacc до + основания
+Snom V от + Sgen {ADV / Sins}
+Snom V издалека
+Snom V голос против + Sgen
+Snom V Sdat {ADV / PRгде + Sx}
+Snom V Sacc в + трубу
+Snom V дорогу
+Snom [не] {уметь / мочь} V двух + слов
+можешь [себе] V CL
+Vimpers {ADV / PRгде + Sx} Sins
+Snom V [Sacc] «CL»
+Snom V веру Sdat
+Snom V Sacc {ADV / PRгде + Sx}
+S Vpartcpact
+Snom V Sdat партию
+Snom V Sacc {через + Sacc / сквозь + Sacc}
+Snom V на + лыжи
+Snom V визит Sdat
+Snom V Sacc {в + Sacc / Sins}
+Snom V Sacc на Sacc
+Snom V {на + Sacc / против + Sgen}
+Vimpers Sacc
+Snom V {ADV / PRкуда + Sx / Vinf} до + Sgen
+вопрос стоит ADV
+Snom V в + руки Sdat
+Snom {идти / бежать} куда глаза глядят
+Sdat не Vinf
+Snom V на + свет Sacc
+Snom V петуха
+Snom V за + рамки + Sgen
+Snom V с + огнем
+Snom V когда + CL
+Snom V чтобы + CL Sdat
+Snom V Sacc {на + Sacc / к + Sdat}
+Snom V на + свой + страх и риск
+Snom V уроки у + Sgen
+Snom V {ADV / PRкуда + Sx} за + Sins
+Snom V на + Sloc {ADV / PRгде + Sx}
+Snom V на + лед
+Snom V Sacc Sdat
+Snom V {над + Sins / над + APROins + душой}
+Snom становиться Sins
+Snom V в + свои + права
+Snom V Sins -> Sgen
+Snom V себе {ADV / Sacc}
+CL чем Snom V
+Snom V против + Sgen
+Snom V Sacc, чтобы + CL
+Snom менять Sacc
+Snom само за + себя говорит
+Snom V погоду
+Snom V у + Sgen {ADV / PR + Sx}
+Snom V {Aacc + лицо / Aacc + мину / Aacc + физиономию}
+Snom Vpass в + Sloc
+Snom V Sdat руку и сердце
+{Sacc / у + Sgen} V Rel + CL
+Snom _V_ Sacc CL
+Snom V ADV на + Sacc
+Snom V Sdat пример
+Snom V Sacc вокруг + Sgen
+Snom V {ADV / Sacc / до + Sgen} {под + парусом / под + парусами}
+Snom не V за + Sins
+Snom не могу V
+Snom V Sacc до + Sgen
+Snom V Sacc по + карману
+Snom V концы с + концами
+Snom V акцент на + Sloc
+Snom V {личину / маску} [-> Sgen]
+Snom V {Sins / на + Sloc}
+Snom V к + Sdat
+Snom V {Sacc / Vinf} {ADV / PRкуда + Sx}
+Sacc V Sacc
+быть по + сему CL
+Sins Vimpers в + Sacc
+Vimpers Vinf Sdat
+Snom как сыр в + масле V
+Snom V {в + позу + Sgen / в + Aacc + позу}
+Snom V с + Sins {Sins / в + качестве + Sgen}
+Snom V Sacc с + носом
+Sacc Vindet Sins
+Snom V Sdat на + дверь
+Vimpers Vinf CL
+Snom V начало Sdat
+Snom V Sacc от + Sgen до + Sgen
+Snom V Sacc на + все + четыре + стороны
+Snom V речь [{к + Sdat / перед + Sins}] [{о + Sloc / «CL» / CL}]
+Snom V в + Sloc
+что + CL Vimpers Sdat {Ains / Acomp / Sins}
+не V Sgen
+Snom V страху Sdat
+Snom V Sins в + Sacc
+Snom V пример Sdat
+Sacc Vimpers что + CL
+Snom V на + Sloc
+Snom V себя с + головой
+душа ушла в + пятки у + Sgen
+Snom V {Sacc / о + Sloc / что + CL / Rel + CL} из + Sgen
+Snom V Sacc на + душу
+Snom V {Ains / Acomp / Sins}
+Snom V приход с + расходом
+Snom V {ADV / Sgen / PR + Sx}
+Snom V на + шее у + Sgen
+Snom V {Sacc / «CL»} {по + Sdat / на + Sacc}
+Snom V Sacc на + память
+Snom V Sacc {ADV / за + Sacc}
+Snom V Sacc после + себя
+Snom V Sacc в + жертву Sdat
+Snom V Sacc {к +Sdat / по + отношению + к + Sdat}
+Snom V Sacc по + специальности + «Snom»
+Snom V за + Sacc Sins
+Snom V как воды в + рот набравши
+Snom V Sgen {ADV / PRгде + Sx}
+{время / пора} V Vinf
+Snom V SPROacc
+Snom V {между + двумя + стульями / между + двух + стульев}
+связался черт с + младенцем
+Snom V Sacc на + штыки
+Snom V Sacc Snom
+Snom V {Sacc / Conj + CL / Rel + CL} из + Sgen
+Snom V Sacc PRтраект + Sx {ADV / PRкуда + Sx}
+Snom V {Sacc / Vinf} Sdat
+Snom V {на + зуб / на + зубок} Sdat
+Snom V Sacc в + распоряжение -> Sgen
+Snom V право Vinf за + Sins
+Snom V Sacc под + Sins
+не V Vinf
+сам знаю CL
+Snom V Sins у + Sgen
+Snom V Rel + CL
+Snom V Sacc {Sins / в + Sloc}
+Anom + кровь течет {в + Sloc / в + жилах -&amp;gt; у + Sacc}
+Snom V через + край
+Snom V о + Sloc «CL»
+Snom V Sacc перед + Sins
+Snom V Sacc Sins о + Sacc
+час V
+PRоткуда + Sx Vimpers
+Snom V снизу вверх на + Sacc
+Snom V паруса
+Sdat V Vinf
+старого + воробья на + мякине не проведешь
+Snom V {голос / тон}
+Snom V Sacc через + себя
+Snom V друг + на + друге
+Snom V свои + карты
+Snom V Sdat {ADV / Sacc} «CL»
+нелегкая носит Sacc {ADV / PRгде + Sx}
+Snom Vpass с + Sins
+Snom V пули
+Snom V в + суд на + Sacc
+Snom _V_ у + Sgen
+Snom V {ADV / в + Sacc} Sdat
+Snom V высоко знамя Sgen
+Snom V что + CL в + Sacc
+Snom V {ADV / Sgen}
+Snom V ко + дну
+Sdat Vimpers ADV
+за + что купил, за + то и продаю
+Snom V APROacc + {взгляд / взор} на + себе
+Snom V под + знамя -> Sgen
+PARENTH, V Snom ADV, но CL
+Snom V из + рук -> Sgen
+Snom V Sacc [в + себя]
+Snom V из + памяти
+Snom V на + месте
+Snom V обиду на + Sacc
+Snom V Sdat «CL»
+Snom обойтись
+Snom V {смерти / гибели} [опасности] в + глаза
+Snom V на + попа
+Snom V {ADV / по + Sdat / Sacc} с + Sgen за + Sacc
+Snom остаться за + Sins
+Snom V в + Sacc Sins
+Snom ничего не V без + Sgen
+сыр-бор горит
+Snom V карьеру
+Snom V Sacc {ADV / NUMacc}
+Snom V {в + Sacc / на + Sacc} Sins
+Snom в + Sloc V ADV
+Snom V роды у + Sgen
+Snom V на + помощь Sdat
+Snom V к + Sdat в + Sloc
+Snom V с + рук Sdat
+Snom V язык за + зубами
+руки до + Sgen не доходят
+Snom V косточки Sdat
+Snom V {в + пользу + Sgen / за + Sacc}
+Snom только и {знает / знаю / знаешь}, что CL
+Snom V Sacc {на + карту / на + кон}
+Snom V Sgen перед + [совершившимся] + фактом
+_Vpartcp.pass_ S
+Snom V {к + Sdat / в + руки + Sgen}
+Snom V против + Sgen {в + Sloc / на + Sloc}
+Snom V Sacc на + помощь
+так и знай CL
+Snom V {ADV / к + Sdat}
+Snom V {ADV / Spart} в + Sacc
+Snom V {в + голос / на + крик / криком}
+Snom V APROacc + внимание на + Sacc
+[это] вилами по + воде писано
+Snom V Sacc {как + Snom / в + качестве + Sgen}
+Snom V сознание
+Snom {идти / бежать}, не разбирая дороги
+Snom V {голову / кости}
+Snom V головой за + Sacc
+Vimper чтобы + CL
+что Vimpers до + Sgen [то] CL
+Snom V Sacc {в + себя / в + чувство}
+Snom V ADV «CL»
+Snom V жизнь у + Sacc
+Snom V Sacc за + борт
+Snom V в + подробности
+Snom V Sacc в + долю
+Snom V на + себя руки
+Snom V на + APROacc + сторону
+Snom _V_ {Sacc / Spart} на + Sloc
+Snom V Sacc {взаймы / в + долг} Sdat
+Snom V {на + боку / на + печи}
+Snom определить {Sacc / что + CL / Rel + CL / CL} {в + Sloc / на + Sloc}
+Snom V {ADV / по + Sdat / Sacc} с + Sgen
+Snom V {ADV / PRоткуда + Sx} {ADV / PRкуда + Sy}
+Snom V: CL
+Snom V Sacc с + собой в + могилу
+Snom V Sacc в + Sacc {ADV / PRоткуда + Sx}
+Snom V {ADV / в + пользу + Sgen}
+Snom V {сквозь + Sacc / через + Sacc}
+Snom V себе имя
+Snom V Sins к + Sdat
+ноги {еле / не} держат Sacc
+Snom V на + телефоне
+Snom V ADV Sins
+Snom V {счастье / удовольствие / честь} Vinf
+Snom V на + смену Sdat
+Snom V зубы на + полку
+{Sacc / Spart} Vimpers {ADV / PRоткуда + Sx}
+Snom не V значения Sdat
+Snom не V, куда глаза деть
+Snom _V_ как + Snom
+Snom V Sacc по + рукам
+Snom V PRкуда + Sx
+Snom V обязанности -> Sgen
+Snom V Sdat Sacc Sins
+Snom V {смело / прямо} в + глаза Sdat
+Snom V Sacc Sdat на + основании + Sgen
+Snom не горит
+Snom V Sacc за + Sacc
+Snom V Sgen со + стороны + Sgen
+что будет, то будет
+Snom V Ains
+Snom V Sacc во + главу + угла
+Snom V {за + Sins / Rel + CL} в + Sacc
+Snom V PRкуда + Sx Sdat
+Snom V {ADV / PRоткуда + Sx} {ADV / PRкуда + Sx}
+как Snom V CL
+Snom V Sacc на + чистую + воду
+Snom V под + счастливой + звездой
+Snom V {ADV / в + Sacc / на + Sacc}
+Snom V жару Sdat
+как V Snom CL
+Snom танцевать Sacc на + Sloc
+Snom V {Sacc / Rel + CL} перед + Sins
+Snom V Sacc {на + Sacc / под + Sacc}
+Snom V {Sacc / Spart}
+Snom Vpass Conj + CL
+Snom V [ничего] не знаю [и знать не хочу]
+от + Sgen Vimpers Rel + CL
+Snom V за + собой
+Snom V {из + Sgen / с + Sgen}
+Snom V отпуск
+Snom V Sdat палки в + колеса
+если {хотите / хочешь} CL
+Sgen Vimpers у + Sgen
+Snom V Sacc PRкуда + Sx
+Snom V от + Sgen на + Sacc
+Vimpers от + Sgen
+Snom V Sacc со + света
+Snom V {ADV / PRтраект + Sx}
+Snom _V_ {ADV / PRгде + Sx}
+Snom V до + Sgen Sins
+Snom V почву под + ногами
+Snom V «Snom» {ADV / на + Sloc}
+Snom V не на + что
+Snom V с + Sgen у + Sgen
+V1pl что + CL
+Snom V Sacc из-под + Sgen
+Snom V за + Sacc [на + Sacc]
+Snom V {ADV / PRтраект + Sx} {ADV / PRкуда + Sy}
+Sdat не Vinf Sgen
+Snom не V на + Sacc
+Snom не V себе места [от + Sgen]
+[ну] как {знаешь / знает / знаете}
+Snom V себе в + голову {Sacc / что + CL}
+Snom V {Sacc / Sgen} чтобы + CL
+Sacc Vimpers от + Sgen
+Snom V {на + троне / на + престоле}
+Snom V Sacc Sdat «CL»
+Snom V концы
+Snom V на + [собственных] + ногах
+{понимаешь / понимаете} ли CL
+Sacc Vimpers к + Sdat
+Snom V тень на + ясный + день
+что Vpraes.3sg до + Sgen [то] CL
+Snom V оружие
+Snom V дрозда Sdat
+CL куда ворон костей не заносит
+Snom V не _V_
+Snom V {мнение / представление} [{о + Sloc / по + Sdat}]
+Snom V Sacc в + мыслях
+Snom _V_ Sacc ADV
+рука руку моет
+Snom V Sdat на + пятки
+Snom ни на + что не смотрел бы
+Snom V Sdat в + объятия
+Snom V Sacc [с поличным] {ADV / PRгде + Sx}
+Snom V на + части Sacc
+Snom V мимо + Sgen
+{время / пора} V Vinf для + Sgen
+Vinf1 V Vinf2
+Snom V бой
+Snom V рот Sdat
+Snom V {ADV / PRгде + Sx} [ADV]
+так и быть CL
+Snom V в + пословицу
+Snom V на + колени перед + Sins
+Snom {едва / с + трудом} V на + ногах
+Snom V Sacc узлом
+V1sg за + Sacc
+Snom V на + два + аршина в + землю
+Snom V {чепуху / ахинею / ерунду / вздор}
+Snom V Sacc {в + Sacc / на + Sacc}
+Snom V Sacc на + нет
+Sacc Vimpers от + Sgen у + Sgen
+{дух/дыхание} Vimpers от + Sgen [у + Sgen]
+Snom V ярлык на + Sacc
+Snom V в + силу
+Snom V {ADV / PRгде + Sx} на + Sacc
+Snom V воздушные + замки
+{надо / пора} и честь V CL
+Snom V {о + Sloc / что + CL} {в + Sloc / на + Sloc}
+Snom V с + Sins PRгде + Sx нос + к + носу
+за + глаза хватает {Sgen / Vinf}
+Snom V спиной к + Sdat
+Snom V Sacc в + рот
+Snom _V_ {до + Sgen / по + Sacc}
+Snom V [свое] + начало от + Sgen
+Snom V слезы о + Sloc
+Sgen Vimpers на + Sacc
+Snom V Sacc {глазами / взором}
+Sacc Vimpers {ADV / PRкуда + Sx}
+Vimpers Sdat CL
+Snom {как / будто / словно} в + воду смотрел
+Snom V Sacc под + ружье
+Snom V {на + плохой + дороге / на + плохом + пути}
+Snom V Sdat за + Sacc
+Snom V в + вечность
+Snom V знак Sdat
+Snom V ADV в + Sloc
+Snom V Vinf у + Sgen
+Snom V {под + солнцем / на + солнце / в + лучах + Sgen}
+Snom V в + [самую] + точку
+Snom V по + Sacc
+Snom V на + ANUMacc + место [{ADV / PRгде + Sx}]
+Snom V к + Sdat на + Sacc
+Snom V благим + матом [«CL»]
+Snom V мир
+Snom {земли / ног} под + собой не V
+Snom _V_ {Sacc / Spart} Sins за + Sacc
+Snom видеть Sacc
+Snom V голову с + Sacc
+Snom V вожжи Sdat
+Snom V до + Sgen с + Sgen
+рукой V до + Sgen [{ADVPRO / PRоткуда + Sx}]
+Sgen не Vimpers
+Держи карман [шире]!
+Snom _V_ и V
+Snom V Sacc без + ответа
+Snom V {Sacc / о + Sloc / Conj + CL / Rel + CL} от + Sgen
+Snom V Sins {за + Sacc / во + имя + Sgen}
+Snom V глазами
+Snom прийти к + выводу {что + CL / «CL» / CL}
+Snom V {в + основу / в + основание} Sgen
+Snom V крюк
+Snom танцевать
+{Snom / Vinf} V Sdat если + CL
+Snom V {ADV / Sacc / до + Sgen} на + веслах
+Snom V Sacc {на + основе + Sgen / на + базе + Sgen}
+Snom V Sacc «CL»
+Snom V у + [кормила] + власти
+Snom V [Sdat] русским + языком CL
+Snom возвратить Sacc Sdat {ADV / PRкуда + Sx}
+Snom V шкуру + неубитого + медведя
+Snom V {силы / соки} из + Sacc
+Snom V {ADV / PRкуда + Sx} ADV / PRоткуда + Sx
+Snom V Sacc {по + Sdat / на + Sacc}
+Snom V Sacc с + ума
+Snom V {в + защиту + Sgen / на + стороне + Sgen / в + пользу + Sgen} {ADV / PRгде + Sx}
+Snom V {курс / направление} на + Sacc
+Snom V меру
+Snom V как на + вулкане
+Snom V в + Sacc вместо + Sgen
+Snom V Sacc [на + Sloc]
+как V {ADV / PRоткуда + Sx} CL
+Snom V Sacc {ADV / PRкуда + Sx} за + Sacc
+Snom V Sacc {ADV / в + Sloc}
+Snom V на + стол
+Snom V {в + Sacc / на + Sacc} по + Sdat
+Snom V своим + чередом
+Snom _V_ Sacc к + жизни
+Snom V {к + Sdat / в + Sacc} с + Sins
+Snom V Sins для + Sgen
+идет!
+Snom V {мертвую / без + просыпу / запоем}
+Snom чувствовать CL
+Snom V на + Sloc у + Sgen
+Snom V Sacc на + руках
+Snom V {Sacc / что + CL} Sins
+Snom V вензеля
+Snom V Sdat лекцию
+CL и пошла V губерния
+Vimpers {ADV / PRгде + Sx} ADV
+Snom V двери + дома для + Sacc
+Snom V вид, Conj + CL
+V1sg покорно!
+Snom V Sacc на + тот + свет
+Snom V Sacc с помощью + Sgen
+Vger по + Sdat
+Sacc Vimpers Rel + CL
+Snom V себе пулю в + лоб
+Snom V хлеб-соль с + Sins
+Snom V оборону
+Snom V {деньги / деньгами}
+Snom V деньги на + ветер
+Snom V ADV от + Sgen
+Snom V между + Sins и Sins
+Snom _V_ для + Sgen
+Snom V Sacc за + счет + Sgen
+Snom V петухом
+Snom V из + уст + Sgen в + адрес + Sgen
+Snom APROgen + мизинца не стоит
+Snom V Snom
+Snom V Sdat на + любимую + мозоль
+как Snom чувствовать CL
+Snom V Sdat чтобы + CL
+Snom V лавочку
+Snom V сквозь + Sacc
+Snom V Sacc PRтраект + Sx [{ADV / PRкуда + Sx}]
+Snom V с + Sins на + брудершафт
+Snom V себе за + правило Vinf
+Snom V на + Aloc + точке + зрения [, что + CL]
+вопрос стоит ребром
+как V CL
+Snom V Sacc Sins на + Sloc
+Snom V в + берега
+Snom покрыто мраком + неизвестности
+Snom V Sacc на + музыку
+Snom V товар лицом
+Snom V место Sdat
+Snom V Sacc {с + дороги / с + пути}
+Snom _V_ Vinf за + Sacc
+Snom V наружу
+Snom V {ADV / Anom / Vger / PR + Sx}
+Snom V о + Sloc между + собой
+Snom V Sacc для + Sgen
+Snom V об + заклад
+Snom V Sdat ADV
+Snom V с + Sgen до + Sgen
+Snom V Sacc голыми + руками
+Snom V {Sacc / Spart} {ADV / PRкуда + Sx}
+Snom V в + прятки
+Snom V {из + Sgen / среди + Sgen}
+Snom V {на + сторону + Sgen / на + Aacc + сторону}
+Snom V за + руку
+Snom V [Sacc] в + Sacc
+Snom V {Anom / Ains / Abrev / Acomp}
+Sdat V {Snom / Vinf} на + долю
+Snom V с + натуры
+Snom V Sacc в + ежовых + рукавицах
+{Snom V Sgen / Sgen не + V Vinf} Sdat
+Snom не V, куда себя деть
+Snom V PRоткуда + Sx PRкуда + Sy
+Snom V о + Sloc Sacc Sdat
+Snom V Sacc в + виду
+по + совести говоря CL
+Sdat V Sacc
+_V_ PRAEDIC
+Sdat Vimpers Sgen
+Vimpers как + из + Sgen
+Snom V Sacc Sdat Sins из + Sgen
+все [мы] под + богом ходим
+Snom V сном + праведника
+Snom V [зеленый] + свет [Sdat]
+Snom V {Sacc / что + CL / Rel + CL} Sins
+Snom V Sdat Sacc
+Snom V согласно + Sdat
+как ни в + чем не Vimpers CL
+Snom V о + Sloc
+Snom V как _V_
+Snom V волю Sdat
+Snom V {что + CL / как + CL}
+Snom V себя {Sins / как + Snom}
+Snom V на + стороне + Sgen
+Sins _Vimpers_ Sacc
+Vimpers у + Sgen «CL»
+Snom V Sacc к + столу
+от + Sgen Vimpers CLi
+Snom V огонь и воду [и медные + трубы]
+Snom V {Sacc / «CL»} на + Sloc
+Snom V Sacc по + течению
+Snom [не] V Sacc в + обиду
+Snom V Sacc самому + себе
+Snom V всем
+Snom V {кавычки / скобки}
+Snom V {ADV / по + Sdat / Sacc} за + Sacc
+Snom V на + Sloc {ADV / PRоткуда + Sx}
+Snom V хлыста
+мурашки V по + спине [у + Sgen]
+Snom V вслед + Sdat
+CL1 того и гляди CL
+Snom V в + Sacc с + Sgen
+Snom V Sacc [в + Sacc]
+Snom V на + APROloc + нервах
+Snom V Sacc {за + Sacc / как + Sacc}
+Vimper!
+Snom не V своим + {глазам / ушам}
+Snom V Sacc в + хвост и в + гриву
+Snom V Agen от + Sgen
+с + Sgen Vimpers
+Snom V {Sacc / что + CL / Rel + CL} Sdat
+Snom V [свою] + душу
+Snom V в + APROacc + положение
+Snom V Sacc за + руку
+как и следовало V CL
+Snom V Sacc на + Sloc
+Snom V {Sacc / Sgen} на + Sacc
+Snom V о + Sloc {ADV / PRгде + Sx} «CL»
+Snom V Sacc Sdat через + Sacc
+Snom V замуж за + Sacc
+Snom V вопрос [Sdat] на + Sloc
+Snom V замуж
+Snom Vpass для + Sgen
+Snom V шапку перед + Sins
+Snom V Sacc Aacc {ADV / PRгде + Sx}
+Snom V Sacc Sins {ADV / Sins / PR + Sx}
+APROnom + лавры не дают Sdat V
+Snom V за + правду
+Snom V пенки с + Sgen
+Snom V на + Sloc Sins
+Snom V {в + APROloc + мнении / в + APROloc + глазах}
+Snom V {ADV / PRкуда + Sx} чтобы + CL
+Snom V Sacc взамен + Sgen
+Sacc {как / точно / словно} [ножом] Vimpers
+{душа / сердце} не принимает [{Sgen / Rel + CL}]
+Snom V Sacc с + панталыку
+Snom V {Anom / Abrev / Acomp}
+Snom V курс {ADV / PRкуда + Sx}
+Snom V Sacc {на + свой + аршин / своим + аршином}
+Snom V совет Sdat
+Snom V Sacc {Ains + судом / судом + Sgen}
+Snom V колесом
+Snom V Sgen
+Snom V {Sacc / Vinf} {ADV / PRгде Sx}
+Snom V {ADV / мимо + Sgen}
+«CL» Snom V за + Sacc
+Snom V {на + Sacc / в + Sacc} {ADV / с + Sins}
+Snom V Sacc от + имени + Sgen
+Snom определить Sacc в + Sloc
+Snom V Лазаря
+Snom V {ADV / PRгде + Sx} ADV
+Snom V на + дыбы
+Snom V {ADV / Sacc}
+Snom V Sacc {в + Sacc / за + Sacc}
+Snom V Sacc под + Sacc
+Snom V спустя рукава
+Snom Vpass ADV
+Snom V во + все + глаза
+Snom V для + Sgen в + Sloc
+Snom V {Ains / один / Sins / ADV}
+Snom V Sacc под + проценты
+Snom V Sacc / Sgen
+Vimper: Snom, Snom
+Snom V свет на + Sacc
+Snom V золото
+Snom V в + кусты
+Snom V с + Sins чтобы + CL
+Snom V по + пятам
+Snom V Sacc за + нос
+хочешь не хочешь CL
+CL хоть топор Vimper
+соловья баснями не кормят
+V Sdat на + орехи [от + Sgen]
+палка плачет {о + Sloc / по + Sloc}
+Snom V вопрос ребром
+Snom V Sacc {для + Sgen / Sdat}
+Snom _V_ Sacc с + собой
+Snom V {ADV / Sacc} за + Sacc
+{Snom/Vinf/Anom} V Sacc
+Snom не V выбора Sdat
+Snom V как у + Христа за + пазухой
+Snom V губы
+Snom V в + дрейф
+знаем мы вас Rel + CL
+Snom V в + историю
+Snom V по + Sdat PRоткуда + Sx PRкуда + Sy
+Snom V в + гору [у + Sgen]
+{Snom / Vinf} V Sdat на + Sacc
+Snom V {в + возраст / в + года / в + лета}
+Snom V Sacc за + Sacc [{ADV / из + Sgen}]
+бог знает {кто / что / какой / ADVPRO}
+Snom V равновесие
+Snom V в + воздухе
+Snom V за + Sacc
+Snom V {Sgen / Rel + CL} у + Sgen
+Snom V в + одну + точку
+Snom V {ADV / PRкогда + Sx}
+Snom V масло в + огонь
+Snom V жизнь по + минутам
+это делу не поможет
+Snom V известь
+Vpass Snom от + Sgen
+Snom V Sacc в + Sloc
+Snom V {из + головы / из + памяти}
+Snom V {дружбу / знакомство} с + Sins
+Snom V гнев на + милость
+Snom V голос {в + защиту + Sgen / за + Sacc}
+Snom V что + CL из + Sgen
+Snom V воды в + рот
+Snom V {ADV / PR + Sx} с + Sgen до + Sgen
+Snom V лишний + {жир / жирок}
+Snom V {Sacc / на + Sacc / что + CL / Rel + CL} Sdat
+Vger {Rel + CL / Rel + Vinf}
+Snom V Sacc по + шерсти
+Snom _V_ {ADV / PRгде + Sx} в + Sloc
+Snom V Sacc {ADV / PRоткуда + Sx} Vinf
+Snom V на + пенсию
+Snom V из-за + Sgen с + Sins
+Snom V право на + Sacc
+Snom _V_ {Sacc / Spart} к + Sdat Sins
+Snom V с + Sins Sins
+Snom V в качестве + Sgen
+Snom V Sins за + Sacc
+Snom V Sacc с + ног + до + головы
+Snom V Sacc о + Sacc
+Snom V Sacc без + последствий
+Snom V Vinf {ADV / PRоткуда + Sx} {ADV / PRкуда + Sx}
+Snom испытать как + CL
+Snom V себе Vinf
+Snom V в + распоряжение -> Sgen
+_V_ Sacc {ADV / PRгде + Sx}
+Snom V быка за + рога
+Snom V Sdat в + Sloc
+Snom V «CL» в + Sloc
+Snom V Sacc к + Sdat Sins
+Snom V {ADV / PRкуда + Sx} CL
+Snom V Sgen {пуще / как} огня
+{слезы / рыдания} стоят у + Sgen в + горле
+{ADV / PRоткуда + Sx} Snom V «CL»
+Snom V толк в + Sloc
+Snom V Sacc на + Aloc + волнах
+Snom V ни с + чем
+Snom V в + печенках у + Sgen
+Vimpers за + Sacc [Sdat]
+Vimpers PRкуда + Sx PRоткуда + Sx Sins
+это у + Sgen вот где сидит
+Snom V расчет у + Sgen
+становиться у + Sgen с + Sins PRAEDIC
+Snom V к + Sdat «CL»
+Snom V в + отставку
+Snom V куры Sdat
+Snom V во + все + горло {о + Sloc / что + CL / «CL»}
+Snom V с + повинной + головой
+Snom V вопрос себе CL
+Snom не V {в + голову / на + ум} Sdat
+Snom V Sacc {ADV / Sx}
+Snom V {основание / фундамент} Sdat
+Snom V {Sacc / о + Sloc / Conj + CL / Rel + CL} Sdat
+что Vimpers Sgen [то] CL
+Snom V по + струнке
+Snom V на + хлебе и воде
+Snom V {из + Sgen / среди + Sgen} по + Sdat
+Snom V Sacc за + Sacc для + Sgen
+Snom V Sacc как {есть / были}
+Snom V барином
+Sdat Vimpers на + Sacc
+Sgen Vimpers
+Snom V от + Sgen на + Sloc
+Snom V в + Sacc Sdat
+Snom V сливки с + Sgen
+Snom V в + цель
+Snom V {Sacc / Sgen} {ADV / PRгде + Sx}
+Sacc Vimpers PRкуда + Sx
+Snom V Sacc {из + Sgen / от + Sgen / на + Sloc}
+{ADV / PRоткуда + Sx} Vimpers Sins
+Snom V Sacc одной + {мерой / меркой}
+Snom V в + весе
+Snom V ванны
+Snom V Sacc на + произвол + судьбы
+льет, как из + ведра
+Snom V Sacc на + испуг
+Snom V {Sacc / по + Sdat} с + Sins
+Snom _V_ Sacc Ains
+Snom V под + вопрос Sacc
+Vimper Vinf
+Snom V Sdat на + чай
+Snom V Sacc при + попытке + к + Sdat
+Snom V Sacc из + себя
+Snom V в + расчете + на + Sacc
+Vinf V Vinf
+Snom V {близко + к + Sdat / далеко + от + Sgen}
+Snom V Sacc Sdat на + Sloc
+не откажусь Vinf
+Snom V Sacc из + Sgen в + Sacc
+Snom V на + дно
+Snom V PRгде + Sx
+Snom не говоря {худого / дурного} слова V
+Snom V {ADV / Sacc} в + Sacc
+Snom V от + Sgen к + Sdat
+Snom V в + лице
+Snom V себя [ADV]
+Snom V Sacc {за + Sacc / под + Sacc}
+Snom V Sacc в + интересах + Sgen
+Snom V слово в + Sloc
+Snom V Sacc {ADV / в + Aloc + стиле}
+куда попало V
+Snom V Sacc под + откос
+Snom V {Sacc / Sgen} {ADV / PR + Sx}
+Snom V картины + Sgen в + памяти
+Snom V Sacc на + бобах
+Snom V экзамен
+Snom V Sdat Sins
+что SPROdat V?
+если так можно Vinf CL
+будь что будет CL
+негде V [{ADV / PRгде + Sx}] [Sdat]
+Snom V Sdat язык
+Snom V {покров / покровы} с + Sgen
+CL [CONJ] Snom V [себе] Vindic
+Snom V Sacc под + монастырь
+Snom не V Vinf, как + CL
+Snom V под + Sacc
+Snom V {Sdat + на + долю / Sdat + в + удел / на + долю -> Sgen}
+Snom V в + адрес + Sgen
+Snom V в + пользу + Sgen
+Snom V {из-под + кисти + Sgen / из-под + пера + Sgen}
+Snom V про + Sacc
+Sacc Vimpers в + Sacc
+Snom V под + ружье
+Snom V у + власти
+Snom V Sacc на + [обе] + лопатки
+Snom V лед между + Sins
+Snom _V_ {Sacc / Spart} на + Sacc
+Snom V «CL» {ADV / PRгде + Sx}
+Snom V в + цене
+Snom V как {часы / машина}
+как пить V CL
+Snom V [Sdat] CL
+Snom V {в + Sloc / на + Sloc}
+Snom V руки Sdat
+Snom V Rel + CL у + Sgen
+Snom Vpass Sacc для + Sgen
+Snom V {ADV / Sins / PR + Sx} Sacc
+«CL» Snom V на + Sacc
+Snom V {ADV / Sacc} от + Sgen
+не приведи {бог / господь}!
+Snom V Sacc за + душу
+Snom V кота [за + хвост]
+Snom V {ADV / PRгде + Sx} при + Sloc
+Snom V во + все + уши
+Snom V {своим / чужим} + умом
+Snom V Sdat
+Snom добиться _Sgen_ {в + Sloc / на + Sloc / в + области + Sgen}
+Snom V {ADV / в + Sacc} {ADV / PRоткуда + Sx}
+Vpass Vinf
+Snom V {дурака / шута}
+Snom V Vger
+Snom V Sdat Rel + CL
+Snom V Sacc если + CL
+Snom V душа в + душу с + Sins
+не V, не гадать CL
+Snom V Sacc Aacc на + Sacc {ADV / PRгде + Sx}
+Snom отдать победу Sdat
+Snom V себя {Ains / Sins / как + Snom}
+Snom V версты
+Snom V Sins из + Sgen
+Snom V Sacc {славой / лаврами}
+Snom V {ADV / PRоткуда + Sx} {ADV / PRкуда + Sx} с + Sins
+Snom V {ADV / Anom / Ains}
+Snom V {Conj + CL / CL } {ADV / PRгде + Sx / у + Sgen}
+Snom V {меч / оружие} [на + Sacc]
+Snom V {на + основе + Sgen / на + базе + Sgen}
+Snom V на + Sacc {ADV / PR + Sx}
+Snom V трубка на + Sacc
+Snom V как сапожник
+Snom V навстречу + Sdat
+Snom V большую + игру
+знай наших!
+Snom V воду на + APROacc + мельницу
+Snom V головой {об + стенку / об стену}
+Snom V Sacc себе
+того и смотри CL
+Snom V мину под + Sacc
+Snom {еле / едва} ноги V [{ADV / PRоткуда + Sx}]
+{наша / ваша} V
+Snom _V_ себя
+как Snom V, CL
+Snom и был таков
+Snom V Sacc в + помощь + Sdat
+Snom V Sins {ADV / PRоткуда + Sx}
+Snom V Sacc Ains
+Snom V [свою] + руку к + Sdat
+иначе говоря CL
+Snom V PRгде + Sx один
+Snom V на + одну + доску с + Sins
+Snom V руки
+пан или пропал
+Snom V Sacc {из-за + Sgen / ради + Sgen}
+как Snom видеть CL
+Snom V [все] + точки над + i
+счастливо V [Sdat]
+Snom V к + праотцам
+Snom V Sacc что + CL
+Snom V в + поте + лица
+Snom V маску с + Sgen
+честь имею V
+Vpartcppass ломоть
+Snom V Sacc под + крылышко
+Sdat Vimpers
+Snom V свой + голос за + Sacc
+Snom V в + Sacc через + Sacc
+Snom V {Sacc / Spart} к + Sdat
+Snom V {Sacc / что + CL} под + присягой
+Snom V Sins чтобы + CL
+Snom V на + учет
+Snom V Sacc Vger
+Snom становиться {Ains / Acomp} с + Sins
+Snom V к + Sdat под + Sins
+в + Sloc Vimpers Rel + CL
+Snom V Sacc {в + плен / в + неволю}
+Snom _V_ Sacc в + Sacc
+копейка рубль V
+Snom V {Sacc / Vinf / чтобы + CL / «CL»} Sdat
+Snom V на + квартиру к + Sdat
+Snom V {в + себя / в + сознание / в + чувство}
+Snom V горькую чашу
+с + чем вас Snom и поздравляю!
+Snom V власть в + Sloc
+Snom не V Sins
+Snom V Sacc поедом
+Snom V диагноз Sdat
+Snom V как кошка с + мышкой
+Snom V из + Sgen
+Snom V правоту
+Snom V связь с + Sins
+Snom V на + убыль
+Snom V Sins {ADV / PRоткуда + Sx} по + Sdat
+Snom V что + CL Vger
+Snom V глаза Sdat
+V2p CL
+Snom V Sacc на + улицу
+Snom V {ADV / без + Sgen}
+Snom V в + оба + [глаза]
+Snom V Sacc под + сукно
+Snom V {дыхание / дух}
+Snom V Sdat от + дома
+быть может, CL
+Snom мелко V
+Snom возвращать Sacc
+только держись!
+Snom V Ains + слезами
+_Vpass_ Vinf у + Sgen
+Snom V {ADV / Sins / PR + Sx}
+Snom _V_ Sacc у + Sgen
+{время / дело} терпит
+Snom V {Sdat / к + Sdat}
+{время / пора} V Sgen
+Snom V губки
+Anom значить Anom
+Snom [не] отдавать себе отчета в + Sloc
+[а] еще Snom V
+Snom V злобу [на + Sacc]
+Snom отозваться Sdat
+Snom V {ADV / PRкуда + Sx} на + Sloc
+Snom себя не V
+Snom V виды на + Sacc
+Snom V {Snom/Vinf/Anom}
+см. Sacc
+Snom V на + защиту Sgen
+Snom V не дождаться {Sgen / Conj + CL}
+хлебом не корми, [а] CL
+Snom V Sacc Sins для + Sgen
+дело мастера V
+Snom V {с + левой / не с + той} + ноги
+Snom V власть
+Snom V на + волоске
+Snom V {в + Sacc / на + Sacc} «CL»
+Snom V против + Sgen {ADV / PRгде + Sx}
+Snom V Sacc с + Sins по + Sdat
+Snom V руки к + Sdat
+бумага все терпит
+костей не соберешь CL
+{S / CL} Snom V
+Snom V Sdat для + Sgen
+Snom V Sacc [{ADV / PRкуда + Sx}] [{ADV / PRоткуда + Sx}]
+Sdat Vinf
+Snom V под + ружье Sacc
+Snom V за + гробом [-> Sgen]
+Snom V Sacc за + Sacc Sins
+Snom V с + ума
+Snom V Sacc {в + Sacc / PR + Sx}
+Snom V {ADV / PRгде + Sx} PR + Sx
+Snom [не] V [и] {вид / виду} [что + CL]
+Snom V Vinf {ADV / PRкуда + Sx}
+Snom не V в + ус
+Snom демонстрировать Rel + CL
+Vimpers Sins {ADV / PRоткуда + Sx}
+Snom V деньги в + Sacc
+Snom V {мысли / слова} в + уста -> Sgen
+Snom V Sgen Sins
+Snom V в + Sacc из + Sgen
+Snom V Sacc {ADV / до + Sgen}
+{дух/дыхание} Vimpers у + Sgen
+Snom V Sacc на + буксир
+Snom V первую + скрипку [{ADV / PRгде + Sx}]
+Snom V {ADV / PRгде + Sx} Sins
+Snom V {Sacc / «CL»} Sins на + Sloc
+Snom V до + APROgen + сведения {Sacc / что + CL}
+Snom V ADV Sdat
+Snom V Sacc {в + дело / в + ход}
+Sins Vimpers {ADV / PRоткуда + Sx}
+Snom V Sacc {ADV / в + Sacc}
+Snom даром хлеб V
+Snom _ V_ в + Sloc ADV
+Snom V Sdat Conj + CL
+как + Snom V CLi
+Snom пользоваться _Sins_ у + Sgen
+Snom V {Sacc / Spart} PRкуда + Sx
+Snom V спать
+Snom V {к + Sdat / в + Sacc}
+Sins и не пахнет
+Snom V {к + Sdat / нa + сторону + Sgen}
+Snom V угощение Sdat
+Snom V очередь
+Snom V сигнал
+Snom V победу
+Snom V до + Sgen {ADV / PRгде + Sx}
+почва ушла из-под + ног у + Sgen
+Snom V Sdat свои + пятки
+Snom V Sacc {ADV / PRоткуда + Sx} за + Sacc
+Snom _V_ {Sacc / Spart} {ADV / PRгде + Sx}
+Snom V Sacc насквозь
+Snom V себя {в + Sloc / на + Sloc}
+Snom плохо лежит
+Snom V шпоры Sdat
+Snom V APROacc + личность
+Snom не V в + счет
+Snom V Sacc Ains + любовью
+Snom V APROacc + счастье
+_Vimper_ Vinf
+Snom приказать долго V
+Snom V под + удар Sacc
+плакали его + денежки
+Snom V Sacc {по + ветру / на + ветер}
+Snom V {Sacc / о + Sloc / что + CL} от + Sgen
+Snom V Sacc {ADV / PRгде + Sx} с + Sins
+Vimpers от + Sgen {ADV / Sins}
+Snom V {за + Sins / Rel + CL} Sins
+Snom V сердце на + Sloc
+Snom сидмя V
+Snom V [Sacc] по + головке [за + Sacc]
+пропади все пропадом, CL
+CL [{только / лишь}] _Vimper_ Vinf
+ни V ни взять CL
+Snom Vpass {ADV / PRгде + Sx} ADV
+Snom до + добра не доведет
+Snom V {на фоне + Sgen / на + Aloc + фоне}
+Snom V Sacc {в + Sloc / на + Sloc} {ADV / PRкуда + Sx}
+Snom V петли
+Snom V из + Sgen на + свет
+Vpass Snom
+Snom V {с + Sgen / после + Sgen}
+Snom V Sacc Aacc
+Snom [навсегда] V в + прошлое
+как Vimper CL
+Snom V Sacc в + Aloc + Sloc
+Snom V долго жить
+Vinf V {ADV / Num} Sdat
+Snom V APROgen + руки
+нашего + полку прибыло
+ как _Vpass_ {ADV / PRгде + Sx}, CL
+Snom _V_ Sacc {ADVкуда / PR + Sx}
+Vimpers PRкуда + Sx Sins
+Snom V Sacc на + одну + доску с + Sins
+Snom _V_ {ADV / PRкуда + Sx}
+Snom V {Aacc + Sacc / Sacc -> Sgen}
+Snom V на + рекорд
+Snom V насмерть
+Snom V Sacc с + помощью + Sgen
+Snom V в + [первые] + ряды -> Sgen
+в + сущности говоря CL
+Snom V на + Aacc + адрес
+глаза бы [мои] не смотрели на + Sacc
+Snom V Sacc на + [Aacc] + дорогу
+Snom V {в + памяти / в + сердце}
+Snom V {для + Sgen / ради + Sgen}
+Snom V {ADV / на + Sacc}
+Snom V {ADV / до + Sgen}
+Snom V под + диктовку
+дело не терпит отлагательства
+Snom _V_ Sacc {ADV / PRоткуда + Sx}
+Snom V Sacc за + чечевичную + похлебку
+Snom V Sacc на + практике
+Snom V в + ружье
+Snom V счеты с + Sins
+Snom не V в + Sloc
+Snom V Sacc днем с + огнем
+Snom V {Sacc / «CL»} Sins
+Snom V под + козырек
+Snom V грудью за + Sacc
+CL хоть Vimper
+Snom V {душой / сердцем}
+свет не производил такого
+Snom V на + эффект
+Snom V от + Sgen по + Sdat
+Snom не V Sacc {ADV / на + Sacc}
+Snom V {роль / Aacc + роль / роль -> Sgen} [{ADV / PRгде + Sx}]
+этого еще не хватало CL
+Vimpers в + Sacc Sdat
+Snom V за + Sacc что + CL
+Snom V в + Sloc по + Sdat
+Snom V из + роли
+Snom V Sacc для + Sgen из + Sgen
+Vimpers о + Sloc [{ADV / PRгде + Sx}]
+Snom V на + распутье
+Snom V {Sacc / что + CL / Rel + CL / CL} {Sins / при + помощи + Sgen / с + помощью + Sgen}
+Snom V впрок Sdat
+Snom V на + карте
+Snom V в + APROloc + мнении
+Snom V с + рельсов
+Sdat Vinf Sins
+Snom V Sacc при + Sloc
+Snom V {Sins / Ains}
+Snom V {на + путь + Sgen / на + тропу + Sgen}
+Snom V Sins {ADV / PRкуда + Sx} за + Sins
+Snom V руку + помощи Sdat
+что + CL V {ADV / PRоткуда + Sx}
+Snom V Sacc под + руку
+сам + бог V Vinf
+Snom V перцу Sdat
+Snom V вразрез с + Sins
+Snom V {у + ворот / у + порога / на пороге} [-> Sgen]
+Snom V дух
+Snom V душу из + Sacc
+Snom V бутылку Sdat
+Snom V {дурным / не своим} + голосом [«CL»]
+Snom V к + Sdat {ADV / PR + Sx}
+Snom V Sacc в + угол
+Snom V Sacc к + жизни
+Vimpers {ADV / PRоткуда + Sx}
+Snom V из + Sgen за + Sacc
+Snom V во + вкус [-> Sgen]
+Snom V камешки в + APROacc + огород
+Snom V Sacc по + суду
+человек предполагает, а бог располагает
+Snom V Sacc {ADV / PRоткуда + Sx} {ADV / PRкуда + Sx} [за + Sacc]
+черт знает {кто / что / какой / ADVPRO}
+Snom V [как + CL]
+Snom ни _Vinf_, ни сесть не {мочь / уметь}
+Snom V что + CL Sins
+Snom танцевать под + Sacc
+Snom V о + Sloc {ADV / PRгде + Sx / у + Sgen}
+Snom V {ADV / PRгде + Sx} {ADV / PR + Sx}
+Snom V жребий
+Snom V по + рукам
+Snom V на + Sacc с + Sgen
+V1sg на + добром + слове!
+Snom V против + Sgen {SPROacc / ADVPRO}
+Snom V Sacc за + чистую + монету
+Snom V курицу на + яйца
+Snom V {обещание / слово}
+Snom V под + подозрение Sacc
+Snom V в + Sacc по + Sdat
+Snom V из + виду
+Snom V загадками
+Snom V Sacc с небес на землю
+Snom V свой + род от + Sacc
+Snom V Sacc под + цвет
+Snom обойтись Sins
+Snom V Sdat в + долг
+Snom _V_ {ADV / PRкуда + Sx} {ADV / PRоткуда + Sx}
+Snom V жилы из + Sacc
+пороху не хватает Vinf
+Snom V Sacc {в + нокаут / в + нокдаун}
+Snom V {ADV / Sacc} для + Sgen
+_Vpartcppass_ S Sins
+Snom V {ADV / PR + Sx} с + Sins
+Snom V Sgen от + Sgen
+Snom V Sacc себе в + карман
+Snom V в + Sacc «CL»
+Snom V ухо востро
+это перешло всякие + границы
+Snom V в + Sacc за + Sacc
+Snom V на + Sacc сквозь + пальцы
+Sdat Vimpers {PRAEDIC / PR + Sx}
+Snom V в + строй
+Snom V перед + Sins
+Snom V под + парусами
+Snom V всякое + лыко в + строку
+Snom возвращать Sacc Sdat
+Snom V авансы Sdat
+Snom не V камня на + камне от + Sgen
+милости просим Vinf
+Snom V {на + Sacc / в + Sacc} {ADV / PRоткуда + Sx}
+Snom V {из + границ + Sgen / из + пределов + Sgen / за + границы + Sgen}
+Snom V [жирный] + крест на + Sloc
+Snom V на + коленях перед + Sins
+Snom V {ADV / на + Sloc}
+Sacc Vimpers {ADV / PRкуда + Sx} Sins
+Snom V с + Sins в + Sloc
+Snom V {вечным / могильным / последним} + сном
+Snom V нос
+Vinf V Sdat
+Snom _V_ Sacc на + Sloc с + Sins
+Snom {еле / чуть} V
+Snom отозваться о + Sloc {ADV / PRгде + Sx} {ADV / PR + Sx}: «CL»
+Snom V Sacc собой
+Snom V порох [на + Sacc]
+Snom V Sacc {да / и / да + и} V
+V
+Snom V Acomp Sgen
+что прикажете [Vinf]?
+Snom V Sacc {на + ум / на + разум}
+деньги не пахнут
+Snom V Sacc на + дно
+Snom V {Sgen / Sacc} у + Sgen
+Snom V на + своего + [любимого] + конька
+Snom V Sacc [Sdat]
+Vimpers по + Sdat
+Snom _V_ в + Sloc
+PRгде + Sx Vimpers у + Sgen
+Snom V цену Sdat
+Snom V Sacc к + Sdat за + Sacc
+Snom V {по + службе / по + служебной + лестнице}
+Snom V {ADV / PRгде + Sx} Sacc
+Snom V Sacc {ADV / PRкуда + Sx} {ADV / PRоткуда + Sy}
+Snom V в + долги
+Snom V из-под + Sgen
+V на + Sacc не хочется
+Snom V Sacc {из + себя / из + терпения}
+собственно Vger CL
+Snom V пример с + Sacc
+Snom V PRгде + Sx PRоткуда + Sx PRкуда + Sy
+Snom V {целью / задачей} Vinf
+Snom V себя [PR + Sx]
+Snom V {Sacc / что + CL / Rel + CL / CL} с + Sins
+Snom V от + Sgen ADV
+Snom V {до + Sgen / по + Sacc} {ADV / PRгде + Sx}
+Snom V {лозунг / призыв}
+дух занялся у + Sacc
+Snom V зуб {против + Sgen / на + Sacc}
+Snom не V женщин
+Snom V Sacc в + тупик
+Snom V {горю / беде}
+Snom V во + главе -> Sgen
+Snom V {в + Sacc / под + Sacc}
+Snom V {ADV / PRкуда + Sx} {ADV / PRоткуда + Sx} на + Sacc
+Snom V Sacc в + оборот
+Snom V {Sins / PRтраект + Sx}
+Snom V {среди + Sgen / из + Sgen} Sins
+Snom V {Anom / Ains / Acomp}
+дух {APROposs / -&gt; Sgen} Vimpers
+Snom V Sacc Sgen
+Snom V Sdat спину
+Snom V Sacc Rel + CL
+Snom V с + Sins {в + Sloc / на + Sloc}
+Snom V по + Sdat с + Sins
+Snom V духом
+Snom V {ADV / PRоткуда + Sx} Sdat
+Snom V последний + долг Sdat
+Snom V Америку
+Vimpers Sacc {ADV / PRкуда + Sx} Sins 
+от + Sgen Vimpers Sins
+Snom V волю Vinf
+как Vimpers по + Sdat, CL
+PRоткуда + Sx Vimpers у + Sgen
+Snom V ушки на + макушке
+Snom V ребенка от + груди
+Snom V в + положение
+в + Sloc Vimpers
+Snom V {за + Sacc / на + Sacc}
+Snom V Sacc на + слове
+Snom V [Sacc] PRоткуда + Sx
+Snom V Sacc Sdat в + Sacc
+Snom V {ADV / PRкуда + Sx} Sins
+Snom V {жизнь / век}
+Snom V {Sacc / Spart} Sdat
+с + Sins Vimpers PRAEDIC
+Snom V Sacc PRгде + Sx
+Snom V ноту
+Snom Vpass {ADV / PRгде + Sx}
+Snom V на + учет PRгде + Sx
+мягко Vger CL
+{что / как} ни говори CL
+Snom V без + задних + ног
+Snom V Sacc [у + Sgen]
+Snom V Vinf {ADV / PRгде + Sx}
+Snom V Sacc в + объятия
+Snom V на + нервы Sdat
+Snom V {на + Sacc / в + Sacc} {ADV / PRкуда + Sx} с + Sins
+черт возьми!
+Snom V Sacc {ADV / Sins / PR + Sx}
+Snom V друг + друга
+Snom V Sacc {ADV / PRоткуда + Sx}
+Snom V о + Sloc в + Sacc
+Snom V Sacc на + себе
+Vimpers Sacc Sdat
+Snom V себе в + Sloc
+не V и Sgen как + CL
+Snom V Sacc на + Sacc в + NUM + раз
+дело идет к + Sdat
+Snom V {в + колокола / во + все + колокола / в + набат}
+Snom V {в + колею / в + русло}
+Sdat Vimpers за + Sacc
+Snom V Sacc через + Sacc
+Snom V что + CL {ADV / NUMacc}
+Snom V Sacc {Sdat / PR + Sx}
+Snom V пари
+Snom V из + Sgen что + CL
+стало быть CL
+Snom V Sacc к + порядку
+Snom V PR + Sx
+Vpartcp.pass Vinf
+Snom V как + из + Sgen
+CL и пошло V
+не {мешает / мешало + бы} Vinf
+Snom V себя Vinf
+Snom V себя
+Snom V {из + Sgen / от + Sgen}
+Snom V Sins о + Sacc
+Snom V {ADV / Sacc} в + Sloc
+Snom V [Sacc] «CL» Snom
+Snom V сиднем
+Snom V Snom Vindic
+Snom V на + бумаге
+Snom V PRтраект + Sx на + Sloc
+Snom V Sacc {взглядом / взором / глазами}
+Snom V {жизнью + Sgen / Ains + жизнью}
+Snom V ADV в + Aloc + глазах
+Snom V ходуном
+Vpass Snom Sdat
+Snom V в + NUM + раз
+Snom V слезу
+Snom V оглобли
+Snom V перпендикуляр на + Sacc
+не _Vimper_ Sdat, Vimper
+что + CL Vimpers Sacc
+Snom не V {из + головы / из + ума}
+у + Sgen отошло от + сердца
+откуда Snom V
+Snom V {ADV / Sacc} Sins
+слюнки текут [у + Sgen] [{от + Sgen / PRAEDIC}]
+Snom V {на + APROloc + дороге / на + APROloc + пути}
+Snom V не V1 Sgen
+Snom V Sacc из + Sgen [для + Sgen] «CL»
+Sgen Sdat не Vinf
+Snom V Sacc по + Sdat Sins
+Snom _Vinf_ не {могу / может / можешь / можете} {Sacc / Sgen / Rel + CL}
+Snom V в + позу
+Snom V Sacc всерьез
+Sgen как не Vimpers
+Snom V {ADV / PRкуда + Sx}
+Snom V Sdat Sacc за + Sacc
+Snom V на + удочку [-> Sgen]
+Sacc Vindet Snom
+век не V1sg {Sacc / Sgen}
+Snom V Ains Vinf
+Snom V глазки Sdat
+Snom V {очертя / сломя} голову
+нелегкая несет Sacc [{ADV / PRкуда + Sx}]
+Snom V Sdat {Ains / Acomp / Sins}
+Sacc Vimpers у + Sgen
+Snom V в + Sacc на + Sacc
+Snom V лицом к + Sdat
+Snom V вопрос себе
+Snom V Sacc на + свои + места
+Snom V Sacc Vinf {ADV / PRкуда + Sx}
+Snom V {Ains / Sins} Sdat
+Snom V Sacc на + глазок
+Snom V на + Sacc {ADV / PRоткуда + Sx}
+Snom выеденного + яйца не стоит
+Snom V Sdat по + Sdat
+Snom V {горб / спину / хребет}
+Snom V {ADV / PRкуда + Sx} на + Sacc
+SPROnom не Vimper что + CL
+Snom V Sdat на + слово
+Snom V на + разных + языках [с + Sins]
+Snom V {ADV / в + NUMacc + раз}
+V1sg
+Snom V через + Sacc
+Snom V {действительности / реальности / истине}
+терпи, казак, атаманом будешь
+CL только {его / ее} и видели
+Snom не V
+Snom не V дальше Sgen
+Snom V Sdat в + Sacc
+Snom V Conj + CL {о + Sloc / про + Sacc}
+Snom V «CL»
+нельзя V в + одну + и + ту + же + реку дважды
+Snom V свои + слова обратно
+Snom V на + очередь
+{Snom / ADV} V с + Sgen за + Sacc
+Snom V швы с + Sgen
+Snom обнаружить Sacc PRгде + Sx
+Vimpers Sacc {ADV / PRоткуда + Sx} {ADV / PRкуда + Sx}
+не на + Sacc Vpraet
+Snom не _V_ не Vinf
+Snom V Sacc {как + Sacc / в + качестве + Sgen}
+Snom V на + яйцах
+Snom V Sacc на + Sacc Sins
+Snom V Sacc Sdat к + Sdat
+Snom V, CL
+Snom V {ADV / с + Sins}
+Snom V Sdat {ADV / PR + Sx}
+Snom V, что + CL
+Snom V Sacc {ADV / Sins / с + помощью + Sgen}
+Snom V с + Sins о + Sloc
+Snom V {Sacc / о + Sloc / Conj + CL / Rel + CL} {по + Sdat / Sins / в + Sloc}
+Snom танцевать Sacc в + Sloc
+Snom V {в + Sacc / на + Sacc}
+Snom _V_ Sacc PRгде + Sx
+Snom V в + такт + Sdat
+Snom не V Vinf
+Snom V {ADV / PRгде + Sx} Vinf
+Snom V Sacc и Sacc местами
+Snom V {ADV / PRоткуда + Sx} на + Sacc
+Snom V {по + поводу + Sgen / по + Adat + поводу}
+Snom танцевать для + Sgen
+Snom V {Sacc / PR + Sx}
+Snom Vpass Sins
+Snom V по + Adat + части
+Snom V в + гости к + Sdat
+у + Sgen не V Vinf
+Snom V критику на + Sacc
+Snom V между + собой за + Sacc
+Snom V слово Sdat
+Snom V насчет + Sgen
+Snom V CLi [Sdat]
+Snom V {Sacc / что + CL / Rel + CL / CL} у + Sgen
+V так что + CL
+Snom V Sacc {ADV / PR + Sx}
+Snom _V_ в + рядах + Sgen
+Snom V Sacc на + второй + год
+[Snom] пахнет порохом
+Snom V по + Adat + адресу
+Snom V Sacc с + ног на + голову
+Snom V {все / многое} от + жизни
+Snom V на + лад
+Snom _V_ V
+Snom V в + молчанку
+Snom не V CLi
+Snom V Sacc {на + путь + истины / на + путь + истинный}
+Snom V без + Sgen Ains
+Snom V между + собой
+{бог / кто} {его / ее} знает Rel + CL
+Snom V под + суд [за + Sacc]
+Snom V по + Sdat {ADV / на + Sacc}
+Snom V на + повестке + Sgen
+Snom V {Sacc / Rel + CL / что + CL} Sdat
+поднимай выше CL
+Snom V сор из + избы
+Snom V поклоны Sdat
+Snom V {ADV / PR + Sx} [{ADV / PRгде + Sx}]
+Snom _V_ Sacc на + Sloc Sins
+Snom V в + амбицию
+Snom V весть [о + себе]
+Sdat не Vinf Sins
+Snom V Sacc в + штыки
+Snom V утку
+Snom V ADV о + Sloc {что + CL / «CL»}
+Snom развернуть Sacc на + Sloc
+Snom V с + повестки + дня
+Snom V [{Aacc / Sgen}] роль для + Sgen
+Snom [и] мухи не обидит
+Snom V {ADV / Sacc / Vinf / чтобы + CL} Sdat
+Snom V
+ничуть не Vimpers CL
+_Vpass_ Snom у + Sgen
+Snom V из + Sgen Sacc
+Snom V душу на + покаяние
+Snom V на + то + чтобы + CL
+Snom V {Sacc / Sgen} за + Sacc
+Snom определить CL
+Snom V {Sacc / Rel + CL} с + Sins
+Snom не V, куда руки деть
+Vimpers с + Sins PRAEDIC
+Snom палец о + палец не V
+Snom V [земные] + поклоны
+Snom V {да / и / да + и} V1
+Snom V Rel _V_
+Snom V на + скамье + подсудимых
+Snom V откуда ноги растут [у + Sgen]
+Snom V на + свет [{Sgen / в + Sloc}] [{ADV / PRгде + Sx}]
+Snom открыть Sacc Sins
+как следует CL
+хоть Vimper CL
+{Sacc / Spart} Vimpers Sins
+Snom V Sacc {из + Sgen / с + Sgen}
+Snom V место
+Snom V Sacc в + банк
+Snom V {труса / трусу}
+Snom кататься на + Sloc
+Snom V Sacc в + переводе + на + Sacc
+Snom V {под + парусами / на + веслах}
+Snom V Sacc {Sdat / PR + Sx} Sins
+Snom V {Sacc / Vinf} {ADV / PR + Sx}
+Snom V Sacc по + службе
+Snom V Sacc из + виду
+Snom V Sacc {в + гроб / в + могилу}
+[вот] это я понимаю {Snom / CL}
+Snom V Sacc {ADV / PRкуда + Sx} на + Sacc
+Snom V {как + Snom / будто + Snom}
+Snom не V сам себя от + Sgen
+Snom V {Sacc / что + CL / Rel + CL / CL} по + Sdat
+Snom V Sacc среди + Sgen
+Snom V Sacc {Sins / в + Sloc / ANUMgen + Sgen}
+Snom говорит, как пишет
+Snom V Sins перед + Sins
+Snom V вопрос [о + Sloc]
+Snom V во + все + колокола
+Snom V {ума / рассудка}
+Snom не успел глазом V, как + CL
+Snom V в + Sloc у + Sgen
+Snom V по + Sdat Vinf
+Snom не V себя долго ждать
+PRгде + Sx Vimpers от + Sgen
+Snom V Sacc в + руки
+Snom V Sacc ADV
+что SPROnom {здесь / тут / там / PRгде + Sx} забыл?
+Snom V Sacc {к + Sdat / для + Sdat}
+рука не поднялась Vinf
+Snom V в + Snom
+Snom V {в + Sloc / среди + Sgen} Sins
+что попало V
+Snom V на + Sacc «CL»
+в + Sloc V «CL»
+Snom V за + Sacc по + NUMacc + Sgen в + Sacc
+Snom V {о + Sloc / Rel + CL / CL / «CL»} {Sacc / у + Sgen}
+Snom V победителем в + Sloc
+Snom развернуть Sacc Sins
+Snom V в + бирюльки
+Snom V в + калошу
+Snom V [не] ко + двору
+Snom V чтобы + CL Sins
+Snom V не любит
+Snom V счет Sdat
+Snom не V удержу
+где Sacc черти носят?
+Sacc Vimpers по + Sdat
+Snom V двух + зайцев [одним + выстрелом]
+Snom оформить Sacc как + Sacc
+Snom V Sacc к + нулю
+Snom V парад
+рана открылась
+Vimpers, CL
+Snom V из + себя
+Snom V оружие против + Sgen
+Snom V {в + позе + Sgen / в + Aloc + позе}
+Snom V инициативу
+Snom V кровь Sdat
+Snom V Sacc с + учета
+Snom V {Sins / в + качестве + Sgen / в + роли + Sgen} {ADV / PRгде + Sx}
+Snom V Sacc Snom по + Sdat
+Snom обнаружить Sacc Sdat
+Snom V глаза Sdat на + Sacc
+Snom V Sacc Sdat на + Sacc
+Snom V на + Aacc + курс
+Sdat Vimpers Conj + CL
+Snom V {смерть / конец / могилу} {ADV / PRгде + Sx}
+Snom V к + Sdat с + Sins
+Snom V свои + плоды
+CL [{и / то / тогда}] [всё] пиши пропало
+Snom V Sacc в + суть + вопроса
+хотите - верьте, хотите - нет CL
+Snom открыть Sacc
+Snom V Sacc на + свое + место
+Vimpers CL
+Snom V твердой + ногой {ADV / PRгде + Sx}
+Snom V {поперек + дороги / поперек + пути} Sdat
+Snom V {выше / ниже} Sacc в + Sloc
+Snom V CL Sins
+Snom V на + рысях
+{нашел / нашли / нашла} дурака [Vinf]!
+Snom V {ADV / Sacc} {ADV / PRтраект + Sx}
+Snom [и] носа не V {ADV / PRгде + Sx}
+в + Sloc Snom V «CL»
+Snom V на + ум Sdat
+Snom V о + Sloc {ADV / PR + Sx}
+Snom V по + делам
+Snom V CL Vger
+Snom V объятия Sdat
+Snom V {Sdat / к + Sdat} от + Sgen
+Snom V Sacc на + вид Sdat
+Snom V оружие [перед + Sins]
+Snom V на + ладан
+V нечего Sdat
+Snom V камень за + пазухой
+черт Sacc Vimper
+Snom V Sacc в + дом
+Snom V {в + рубашке / в + сорочке}
+Snom V за + Sacc {ADV / PRгде + Sx}
+Snom V языка
+Snom V себя [в + руках]
+Snom V одной + ногой {в + могиле / в + гробу}
+Snom V от + Sgen
+Snom V взапуски
+Vimper как + бы + CL
+Snom V Sacc измором
+Snom V все + входы и выходы
+Snom V в + слух
+Snom V в + свет
+Snom V маху
+Snom V под + руку
+Snom _V_ Vinf
+Snom V {в + дорогу / в + путь}
+Snom V от + Sgen {по + Sdat / Sins}
+милости просим!
+Snom V наперекор
+Snom Vpass на + Sacc из-за + Sgen
+Snom не V устали
+Snom V себя на + Aacc + место
+Snom V Sacc грудью
+Snom V с + Sins за + Sacc
+Snom _V_ Sins
+Snom V Sacc в + Aloc + свете
+Snom V Sacc на + имя + Sgen
+Snom V на + удочку
+Snom V Sacc в + лужу
+Snom V богу душу
+Snom V на + память Sdat
+Snom V голову
+Snom V Sgen в + Sloc
+Snom V Sacc {Ains / Sins}
+Snom V марку
+может статься CL
+Snom V {ADV / в + Sacc / за + Sacc}
+{едва / еле / насилу} ноги носят Sacc
+Snom [{только / лишь}] [и] V Vinf
+Snom V за + галстук
+Snom V CONJ V1
+Snom _V_ Sacc {ADV / PRоткуда + Sx} [на + себе]
+не долго думая CL
+Snom V Sacc [{Sdat / PR + Sx}]
+Snom V Sdat с + Sins
+Snom V присягу у + Sgen
+представь [себе] CL
+Snom V Sacc в + строй
+овчинка выделки не стоит
+Snom V от + Sgen {ADV / PRкуда + Sx}
+Snom V {Sacc / тяжесть -> Sgen} на + своих + плечах
+Vimpers Sdat что + CL
+Snom V Sacc {Sins / с + Sgen}
+Snom покрыто тайной
+Snom V о + Sloc {в + Sloc / на + Sloc}
+Snom V «X»
+Snom V с + чужого + голоса
+Snom V с + гop
+Snom V в + могилу
+Snom V Sacc / Sgen Sins
+Snom V {в + Sacc / через + Sacc}
+Snom V «CL» Sins
+Snom V слезы
+Snom V Sacc на + смех
+Snom V Sacc в + Sloc {ADV / PRгде + Sx}
+Snom V Sdat до + Sgen
+Snom V другую + песню
+Snom V Abrev
+Snom V {о + Sloc / нa + Aacc + тему}
+Snom V Sacc Conj + CL
+Snom V конец Sdat
+Snom V {среди + Sgen / из + Sgen}
+что [Snom] _Vimper_ Sdat делать [с + Sins]
+Snom V {ADV / Anom / Sins}
+Snom V Sacc к + стенке
+Snom V свое + мнение при + себе
+V {покорно / покорнейше} CL
+Snom V Vinf до + Sgen
+Snom V Sacc {ADV / PRгде + Sx} {ADV / Sins / ANUMgen + Sgen / в + Sacc / в + Sloc}
+V, CL
+Snom V Sacc {ADV / PRтраект + Sx}
+Snom V на + Sacc {ADV / PR + Sx} «CL»
+Snom V Sacc {по + суду / в + судебном + порядке}
+становиться {Ains / Acomp} Vinf
+Sins Vimpers
+Snom V без + оглядки
+Snom V жизнь за + Sacc
+Snom V «CL» у + Sgen
+Snom V {в + Sacc / нa + Sacc}, что + CL
+Snom не V прохода Sdat
+Snom V [новую] жизнь Sdat
+Snom V руку Sdat
+Snom гроша + {медного / ломаного} не стоит
+Snom V Conj + CL для + Sgen
+Snom звезд с + неба не V
+Snom V о + Sacc
+Snom определить Sacc Vinf
+Snom _V_ Conj + CL
+как Vimpers в + Sloc «CL»
+Snom V фимиам Sdat
+Snom V речь к + Sdat
+Snom V свое + место
+Snom V {Sacc / Rel + CL / CL} PRгде + Sx
+Snom V Sacc в + бегство
+Snom V с + носом
+в + чем [только] душа держится [у + Sgen]
+Snom V {Sacc / Conj + CL / Rel + CL} Sdat
+{одно / ничего} V {Vinf / кроме + как + Vinf} Sdat
+Snom не _V_ и V
+Snom V со + сцены
+{ADV / PRгде + Sx} Vimpers у + Sgen
+Snom V так + что + CL
+Snom V воду решетом
+Snom V Sins PRтраект + Sx
+кровь играет
+Snom V {допрос / показания} с + Sacc
+Snom V совесть
+ничего не V Vinf
+Snom V до + Sgen
+Snom V Sacc за + Sacc в + Sloc Sins
+Snom V {Ains / один / Sins} {на + Sacc / до + Sgen}
+Snom V Sacc {ADV / по + Sdat}
+Snom V {насчет + Sgen / на + Aаcc + счет}
+Snom V Sacc от + Sgen
+Snom V вторую + скрипку [{ADV / PRгде + Sx}]
+{дух / дыхание} заняло
+Snom {к + добру / ни к + чему + хорошему} не {приведет / привело}
+Snom V Sacc PRкуда + Sacc
+Sgen не V Vinf
+Snom V себя ADV
+Snom V Sacc в + должности
+Snom V Sacc в + [одну] + кучу
+Snom V Sacc от + Sgen из-под + Sgen
+Snom V {в + Sloc / на + Sloc} «CL»
+{дело / речь} V о + Sloc
+Snom V {Sacc / что + CL / Rel + CL / CL} Sdat
+Snom V {на + голову / на + шею} Sdat
+Snom V Sacc {ADV / по + Sdat / за + Sacc} Sdat
+Snom V Sacc [{в + Sloc / на + Sloc}]
+волосы стали дыбом
+Snom V о + Sloc по + Sdat
+Snom V {ADV / Sacc / до + Sgen} за + Sacc
+Snom V Sacc {ADV / PRоткуда + Sx} {ADV / PRкуда + Sx}
+Snom V как отрезал
+Snom V на + Sacc Ains + глазами
+Snom V Sacc под + руками
+Snom V положение
+Snom V у + моря погоды
+Snom V Sacc с + Sgen Sins
+Snom V чужой + хлеб
+Snom V1 Rel Vimpers
+Snom V {выше / ниже} Sacc
+Snom V Sacc на + Sloc {ADV / PRоткуда + Sx}
+Sacc Vimpers Sins
+Snom V «CL» Sdat
+Snom сидеть у + разбитого + корыта
+Sacc Vimpers {ADV / PRоткуда + Sx}
+Snom V {Sacc / что + CL / «CL»} Sdat
+Snom V Sacc по + Sdat на + Sacc
+Snom V Sacc на + попечение Sdat
+Snom V в + милость к + Sdat
+Snom V Sacc по + косточкам
+Snom V {в + Sloc / на + Sloc} Sacc
+Snom V Sins в + Sloc
+Snom V PRгде + Sx у + Sgen
+CL дальше V некуда
+Snom V Sdat {привет / поклон} от + Sacc
+в + Sloc Vimpers о + Sloc
+Snom _V_ Sacc Sins
+Snom V {ADV / PRоткуда + Sx} на + Sloc
+Snom возвращать Sacc Sins
+Snom не V с + Sgen
+Snom V {о + Sloc / Conj + CL} в + Sloc
+Snom V Sacc в + Sacc2
+Snom V с + Sgen {до + Sgen / по + Sacc} {ADV / PRгде + Sx}
+как в + Sloc V «CL»
+Snom V голову над + Sins
+Snom V {наверняка / без + промаха}
+Snom V на + якоре
+Snom попасть под + колеса [-&gt; Sgen]
+Snom V {ADV / PRгде + Sx} {ADV / PRоткуда + Sx} у + Sgen
+Snom V Sdat на + Sacc
+Snom V в + ноги Sdat
+Snom V Sacc за + горло
+не Vinf Vinf2
+Snom V {как / точно / словно} заведенный
+Snom V в + ногу с + Sins
+того и жди CL
+Snom не V ни на + йоту
+Snom V в + Sloc [у + Sgen]
+Snom V {ADV / PR + Sx}
+Snom V в + зубы {коню / лошади}
+Snom V руку на + Sacc
+Snom V, как рыба
+вожжа ему под + хвост попала
+Sacc V Snom на + себе
+V {судьба / бог} Vinf
+Snom V не переводя дыхания
+Snom V себя знать
+Snom V PRоткуда + Sx через + Sacc PRкуда + Sx
+Snom V Sacc в + лицо
+Snom V {Sacc / Spart} Sins
+Snom V {Sgen / Rel + CL} от + Sgen
+дутая фигура
+Snom V Sacc {на + дно / ко + дну}
+Snom V вопрос
+кто попало V
+Snom V Sacc вместо + Sgen
+Snom V Sacc {ADV / PRтраект + Sx} {ADV / PRкуда + Sy}
+Snom V Sdat службу
+Snom V нос по + ветру
+Snom V реву
+вот что значит {Snom/Vinf/Anom}
+{&quot;одно&quot; / &quot;ничего&quot;} V {Vinf / кроме + как + Vinf}
+Snom V из + положения
+Snom V под + Sins
+Snom {высоко / гордо} V голову
+Snom V от + Sgen Sacc за + Sacc
+Snom V занавес
+Snom не V износу
+Snom V Sins {ADV / PRкуда + Sx}
+тайное становиться явным
+Snom V на + одной + доске с + Sins
+Snom V Sacc Sdat с + Sins
+Snom V Sacc в + Sacc
+Snom V на + Aacc + точку + зрения [, что + CL]
+Snom V как снег на + голову
+Snom V {Conj + CL / CL }
+Snom V {на + верной + дороге / на + верном + пути}
+Snom V Vinf от + Sgen
+Snom V большие + глаза
+Snom V Sacc с + лица + земли
+Snom V о + Sloc SPROacc
+Snom V Sacc на + память Sdat
+Snom V на + глаза Sdat
+Snom V Sacc {ADV / NUMacc / в + Sacc}
+Snom V знамя -> Sgen
+Snom V одно из + двух Vinf или Vinf
+Snom V ни при + чем
+Snom V Sdat {на + Sacc}
+какой попало V
+Snom V {в + Sacc / на + Sacc} через + Sacc
+Snom V Sacc PR + Sx
+Snom V к + делу
+Snom V {как + CL / будто + CL / словно + CL / что + CL}
+Sacc Vimpers
+Snom V {стрекача / тягу / ходу}
+Snom V в + APROacc + {слабую / чувствительную} + струну
+Snom не V Sdat Sgen
+Snom V {храпака / храповицкого}
+Snom V Sacc за + жабры
+Snom V из + колеи
+Snom V Sdat кузькину + мать
+Snom _V_ на + Sacc
+Snom не V спуску Sdat
+Snom V Sacc честью о + Sloc
+Sacc Vimpers в + Sacc от + Sgen
+Snom V под + надзор Sacc
+Snom V {Ains / один / Sins} после + Sgen
+Snom V {Sacc / что + CL} к + Sdat
+я думаю!
+Snom V по + Sdat от + смеха
+Snom V CL
+Snom V APROacc + сторону
+Snom не V с + Sins
+Snom V в + голову Sdat
+Snom V голову под + APROacc + крыло
+_Vpartcppass_ форма
+Snom V Sacc {ADV / PRкуда + Sx} Sdat
+Snom V Sacc {Sdat / для + Sgen}
+Snom обнаружить Sacc {Sins / при + помощи + Sgen / с + помощью + Sgen}
+Snom V {Sacc / Spart} на + Sacc
+Snom V NUMacc _V_ NUMacc
+Snom не V {из + головы / из + ума} у + Sgen
+Snom _V_ Sacc с + собой {ADV / PRкуда + Sx}
+Snom V Sgen Sdat
+Snom V не дорого возьмет
+Snom V на + попятный
+Snom V дорогу Sdat
+Snom V {Sdat / для + Sgen / перед + Sins} Rel + CL
+Snom V [себе] за + правило {Sacc / Vinf / что + CL}
+закон не писан Sdat
+Snom V Sins по + Sdat
+Snom V Sins с + Sins «CL»
+Snom V с + Sins «CL»
+Snom V {Sacc / о + Sloc / что + CL / Rel + CL} откуда
+Snom V на + голову
+Snom V в + дело
+Snom Vpass Sdat
+Snom V Sacc ADV «CL»
+Snom V Sacc Vinf
+Snom V на + Sacc Sins
+Snom V Conj + CL
+Snom танцевать Sacc под + Sacc
+Vimpers PRоткуда + Sx Sins
+Snom V PRоткуда + Sx
+Snom V о + Sloc {ADV / PR + Sx} {ADV / PRгде + Sx}
+Snom V время
+Snom V в + Sacc {ADV / PRкогда + Sx}
+любишь кататься - люби и саночки возить
+дело стало за + Sins CL
+Sdat Vimpers {ADV / ADVcomp}
+Snom V {о + Sloc / про + Sacc}
+Snom _V_ что + CL
+Snom V Sacc из + памяти
+Snom V во + главе + Sgen
+Snom V все свое
+Snom исключить что + CL
+Snom V Sacc в + рамках + Sgen
+Snom V Sgen, как чумы
+Snom V Sacc под + ноготь
+Snom V Sacc PRтраект + Sx
+Snom V напролом
+Snom V Sacc по + Sdat
+Не выдай!
+Snom V верх над + Sins
+Vimpers Sacc что + CL
+Snom V {в + ствол / в + ботву}
+Snom V дело
+Snom петь хвалу Sdat
+Snom V Sacc {в + основу / в + основание} Sgen
+Snom V Sacc {у + Sgen / в + Sloc}
+Snom V с + Sins что + CL
+Snom ни в + чем не замечен
+CL, ср. {Snom / «CL»}
+как Vimpers CL
+глаза открываются у + Sgen на + Sacc
+Snom _V_ Sacc с + Sgen
+Snom V {к + предкам / к + праотцам / на + тот + свет}
+не может быть!
+Vimpers {ADV / ADVcomp}
+Snom V {в + голове / в + сознании}
+Snom V {во + внимание / в + расчет / в + соображение} {Sacc / что + CL}
+{дело / работа} горит в + руках у + Sgen
+Snom V в + люди
+Snom V Aacc роль
+Snom V номер + [телефона]
+_S_ остаться за + Sins {в + Sloc / на + Sloc / в + области + Sgen}
+Snom V карты перед + Sins
+Snom V {чувств / сознания}
+{медведь / слон} на + ухо наступил Sdat
+Snom V Sacc {ADV / на + Sloc}
+Snom V как + Snom Sdat
+Snom V Sacc в + Snom
+Snom V с + Sins {о + Sloc / нa + Aacc + тему}
+Snom V дело с + Sins
+Snom V Sgen {ADV / PRкуда + Sx}
+Snom V {Sacc / Sgen} для + Sgen
+Sacc Vimpers как + бы + CL
+Snom V к + концу
+Snom V {ADV / PRгде + Sx} чтобы + CL
+Snom V в + виду
+Snom видеть CL
+Sacc Vimpers Vinf
+Snom V копья [{вокруг + Sgen / из-за + Sgen}]
+Snom V с + Sins Sins к + Sdat
+Snom V Sacc CL
+Snom V в + зрение
+Snom V с + облаков [на + землю]
+Snom V {ADV / на + Sloc} «CL»
+Snom V {славу / славословие} Sdat
+Anom + кровь _V_ {ADV / PRгде + Sx}
+Snom V в + ушах
+CL как Snom V
+Snom V Sdat свои + когти
+Snom танцевать Sacc с + Sins
+Snom V голос
+Snom V APROacc + кровь
+Snom V {по + вкусу / по + душе / по + нраву / по + сердцу}
+Snom V Sacc {Sdat / перед + Sins}
+Snom V {Sacc / что + CL / Rel + CL} от + Sgen
+_Vpartcppass_ S
+{ADV / PRоткуда + Sx} Vimpers
+Snom V Sacc {за + Sacc / под + Sacc} Sins
+Snom V {Sacc / что + CL} Sdat
+Snom V {каверзы / козни} Sdat
+Snom [{и / даже}] думать V {о + Sloc / про + Sacc}
+Snom _V_
+Snom V Sins Sins
+{ADV / PRгде + Sx} Vpass Snom
+Snom V Sins вслед + Sdat
+Snom V APROacc + душу на + покаяние
+Snom обнаружить что + CL
+Vimpers без + Sgen
+Snom V {Sacc / что + CL / Rel + CL} себе
+Snom V {краем + уха / одним + ухом}
+Snom V слова на + ветер
+Snom V {как + Snom / будто + Snom} для + Sgen
+не переставая P
+Snom V так что + CL
+Snom V под + контроль Sacc
+Snom V Sacc за + язык
+Snom [чересчур] много V на + себя
+Snom V думу
+Snom V за + Sins {ADV / PRтраект + Sx}
+Snom V Sacc {Sins / при + помощи + Sgen / с + помощью + Sgen}
+{говорят / говорю} {вам / тебе} CL
+Snom V {возможность / право} Vinf
+Snom V Sacc {с + помощью + Sgen / при + помощи + Sgen}
+Snom V волю
+Snom V Sacc на + Sloc {ADV / PRкуда + Sx}
+Snom V Sacc Sins по + Sdat
+Snom V {к + Sdat / в + Sacc / на + Sacc} Sins
+Snom V {с + жизнью / с + собой}
+Snom V на + равной + ноге с + Sins
+Vimper за + Sacc
+Snom закрыть Sacc
+Snom V PRгде + Sx от + Sgen
+Snom V Sacc на + колени
+Snom V сверху вниз на + Sacc
+Snom становиться Abrev
+Snom V Sacc на + борт
+Snom V Sacc {под + спудом / под + сукном}
+Snom V Sacc Sins от + Sgen
+Snom V Sdat в + виде + Sgen
+Snom V Sacc на + ноги
+Snom V как рыба об + лед
+Snom возвращать Sacc Sdat Sins
+Snom V {ADV / Sins / PR + Sx} Sacc {до + Sgen / по + Sacc}
+Snom V чтобы + CL
+Snom V на + пути у + Sgen
+надо и совесть V CL
+Snom V Sdat компанию
+Snom V знак + равенства между + Sins [и Sins]
+Snom V Sacc {Aacc / Vpartcp.acc}
+краше в + гроб кладут
+Snom V Ains + Sins
+Snom V из + моды
+Snom V Conj + CL в + Sloc
+Snom V {ADV / Sacc} с + Sgen
+Snom V трубку
+Snom V в + Sloc Sins
+далеко V не {приходится / нужно} [за + Sins], чтобы + CL
+Snom V Sacc с + ног
+Snom _V_ в + Sacc
+Snom V в + тираж
+Snom V Sacc к + позорному + столбу
+{Sacc / Spart} Vimpers {ADV / PRкуда + Sx}
+Snom V повод Sdat
+игра не стоит свеч
+Snom V Sacc {в + галоп / в + карьер}
+Snom _V_ Sacc на + Sloc
+Snom V Sacc из + Sgen
+Snom V Sacc на + свой + счет
+Snom V желать {многого / лучшего}
+Snom _V_ ADV
+Snom V в + оба + глаза
+Snom испытать Sacc
+_Vimpers_ Sacc {ADV / PRкуда + Sx}
+Snom V {на + Sacc / что + CL} Sdat
+Snom V Sacc в + себе
+Snom V на + руку
+сколько _Vinf_ в + Sloc
+Snom на + чем свет V {ругать / бранить} Sacc
+{история / время} работает {на + Sacc / против + Sacc}
+Snom V в + гостях
+прошу любить и жаловать [Sacc]
+Snom V Sacc к + сведению
+Snom V {ADV / Sins}
+улитка едет, когда-то будет
+Snom V на + Sacc сквозь + призму + Sgen
+«CL» Snom V Sacc
+Snom V Sacc молчанием
+Snom V через + руки -> Sgen
+Vimper, CL
+Snom V Sacc Sins за + Sacc
+Snom V в + Sacc с + Sins
+Snom V жертвой -> Sgen
+Snom V с + Sins перед + Sins
+Sacc Vimpers {ADV / PRоткуда + Sx} {ADV / PRкуда + Sx}
+Snom V Sacc в + расход
+Snom V на + очереди
+Snom V {идею / мысль} Sdat
+CL чего APROnom + левая + нога хочет
+CL Vimper «CL» у + Sgen
+Snom V как + бы + CL
+Snom V {PRкуда + Sx / по + Sdat} Sdat
+в + Sloc Vpass Snom
+Snom V о + себе
+Snom V до + конца
+Snom V Sacc за + уши
+Snom V Sacc между + собой
+между + нами говоря CL
+Snom V в + Sacc PR + Sx
+Vimpers что + CL {с + виду / на + вид}
+Snom жить на + колесах
+Snom V Sacc на + щит
+Snom становиться {Ains / Acomp}
+Snom V крюку
+Vinf {что / нечего} [CONJ] CL
+Snom V что + CL через + Sacc
+руки опустились у + Sgen
+Snom V без + Sgen
+Snom V Vinf по + Sdat
+Snom V Sacc ADV / на + Sacc
+Snom V ADV
+Snom V комедию
+Snom V у + Sgen
+Snom V на + широкую + ногу
+Sdat Vimpers в + Sloc
+Snom V в + Sacc
+Snom V под + сомнение Sacc
+Snom V Sacc на + Sacc
+Snom V Sacc -> Sgen
+Snom V {Sacc / «CL»} Sdat
+Snom V не могу [{Conj + CL / CL / Vinf / Sacc}]
+Snom V {ADV / PRоткуда + Sx} {Anom / Ains}
+Snom V Sacc в + {розовом / мрачном} + свете
+Snom V Sacc в + Sacc Sdat
+Snom V как + Snom
+хоть в + гроб Vimper CL
+Sdat Vimpers Snom Vinf
+как Vimper это понимать?
+Snom V {Sacc / Sgen}
+Snom V против + Sacc
+Snom V из + берегов
+Snom V дань + [уважения] Sdat
+V2sg CL
+Snom V камень в + Sacc
+как Sacc земля носит
+Snom V Sacc замуж за + Sacc
+Snom V {Sacc / Conj + CL / Rel + CL} Ains + ушами
+CL, дух Vimpers
+на + Sloc Vimpers Sacc
+Snom V {ADV / PRкуда + Sx} на + Sacc на + Sacc
+Snom V под + Sins что + CL
+Snom V перчатку Sdat
+Snom V канитель
+Snom испытать Sacc перед + Sins
+Snom V {собой / своими + чувствами}
+Snom V Sacc от + Sgen для + Sgen
+Snom употребить Sacc для + Sgen
+Snom V {момент / случай} [{Vinf / Rel + CL}]
+Sacc V Snom
+Snom V Sacc на + усмотрение -> Sgen
+Snom V Sacc Sdat {в + Sloc / на + Sloc}
+Snom V Sacc -> Sgen Sins
+Snom много о + себе V
+Snom V Sacc на + лету
+Snom V Sacc {ADV / PRгде + Sx / у + Sgen}
+Snom V [большое] + значение Sdat
+Snom V {ADV / Sacc} на + Sloc
+Snom не V Sacc
+Snom V Sacc {ADV / PRкуда + Sx} ADV
+Sacc Vimpers на + Sacc
+Snom V Sacc во + зло
+Snom V Sdat глаза на + Sacc
+Snom V {Sacc / Sgen} к + Sdat
+Snom V надежду Sdat
+Snom V в + Sacc к + Sdat
+если Snom не V CL
+Snom V от + Agen + Sgen
+CL хоть караул Vimper
+Snom V Sacc {за + душу / за + живое / за + сердце}
+Snom V во + весь + рост
+Snom V Sacc {за + глотку / за + горло}
+Snom V Sacc {Sdat / в + Sacc}
+Snom V тело {для + прыжка / для + броска}
+Snom V за + Sins Sins
+Snom V из + Sgen в + Sloc
+Snom V с + Sins
+Snom _V_ Sacc PRкуда + Sx
+Snom V Sacc к + Sdat
+как Snom ни V, CL
+Snom V с + Sins у + Sgen
+Snom V {о + Sloc / Rel + CL / CL} {PRгде + Sx / у + Sgen}
+Snom V {на + Sacc / в + Sacc} Ains + Sins
+Snom V V1
+Snom V со + смеху
+V нечего Sdat {ADV / PRгде + Sx}
+Snom V Sins
+Snom V Sins на + Sacc
+Snom отозваться на + Sacc
+земля горит под + ногами у + Sgen
+была не была, CL
+Snom V Sacc [{к + чертям / ко + всем + чертям}]
+Snom не V на + глаза
+Snom V {ADV / PRоткуда + Sx} {ADV / PRтраект + Sx} {ADV / PRкуда + Sx}
+Vimper: CL
+Snom V Sacc {о + Sloc / Vinf / Vimper / чтобы + CL / «CL»}
+Snom V Sacc мимо + ушей
+Snom V по + Sdat на + Sacc
+Snom V кота в + мешке
+Snom V Sacc по + рукам и ногам
+Snom V Sacc с + Sins
+Snom V под + угрозу Sacc
+Snom V Vinf Sdat
+Snom V за + Sins
+Snom V поперек + дороги Sdat
+Snom V волю рукам
+Snom V Sacc в + курс + дела
+Snom не V себя просить [дважды]
+Snom V Sacc {ADV / PRкуда + Sx} Vinf
+Snom V {на + пользу / во + вред} Sdat
+Snom V между небом и землей
+Snom V от + печки
+Snom V Sacc у + Sgen
+Snom V {Sacc / о + Sloc / что + CL / Rel + CL / «CL»} Sdat
+Snom V Sdat Sins за + Sacc
+Snom V Sacc {PRтраект + Sx / Sins}
+Snom V кредит Sdat
+Vimpers Vinf
+Snom V воздух [ртом]
+Snom V Sacc Sdat {ADV / PRкуда + Sx}
+Snom V {деру / стрекача / тягу}
+Snom V {Anom / Ains}
+{сапоги / валенки / ботинки} каши просят
+Snom не V в + рот Sgen
+Snom [не] V Sacc в + мыслях
+Snom V на + якорь
+Snom V {Ains + смехом / смехом + Sgen}
+Snom V Sacc назад/обратно
+Vimper
+{время / дело} не терпит
+Snom V Sacc {в + Sloc / на + Sloc}
+Snom V с + горизонта
+Snom V что + CL Sdat
+Snom V мимо + цели
+Snom V {к + Sdat / в + Sacc} за + Sins
+Snom [не] заставить себя V
+Snom V Sacc с + собой
+Snom не V, куда деваться
+Snom V участие в + Sloc
+Snom V Sacc в + вину Sdat
+Snom V с + Sins ADV
+Snom V на + Sacc {ADV / PRкогда + Sx}
+Snom V на + Sacc в + Sloc
+Snom V на + печке
+как Snom открыть CL
+Snom V Sacc {со + сберкнижки / со + счета}
+Snom V по + Sdat Sdat
+Snom V Sacc {ADV / PRгде + Sx} {ADV / на + Sacc}
+{видишь / видите} ли CL
+Snom танцевать у + Sgen
+Snom V Sacc {в + Sloc / на + Sloc} {в + Sloc / на + Sloc}
+Snom V Sacc {ADV / PRгде + Sx / ADV / PRоткуда + Sx}
+Snom _V_ {Sacc / Spart} к + Sdat
+Snom V о + Sloc CL
+черт возьми
+Snom V начало {ADV / PRгде + Sx}
+Snom иметь _Sacc_
+Snom V {Sacc / вокруг + Sacc}
+Snom V рекорд
+{ADV / PRгде + Sx} Vimpers
+должно быть, CL
+откуда ни возьмись CL
+Snom V Sacc {за + Sacc / в + качестве + Sgen}
+Snom V на + то + что + CL
+все как Vimpers CL
+Snom V в + Sacc в + руках + Sgen
+Snom V от + Sgen «CL»
+Snom V Sacc {ADV / PRоткуда + Sx} {ADV / PRкуда + Sy}
+Sdat Vimpers от + Sgen
+Snom V просит
+Snom V в + бегство
+Snom V из + себя Sacc
+Snom V {ADV / PRкуда + Sx} [Conj + CL]
+Snom V Sacc против + Sgen
+Snom V Sacc {как + Sacc / в + качестве + Sgen} для + Sgen
+насколько хватает глаз CL
+Snom V в + тон
+Vimpers Sdat ADV
+Snom V собак на + Sacc
+Snom V на + узенькой + дорожке
+Snom V над + Sins
+Snom V {из + вида / из + глаз}
+Snom V к + Sdat Sins
+{Snom / ADV} V с + Sgen
+Snom V Sacc {ADV / PRкуда + Sx} за + Sins
+Snom V пальцем в + небо
+Snom V ключом
+Snom V {Sdat / перед + Sins}
+Snom не V под + собой ног
+Snom V в + гору
+Snom V {Sacc / о + Sloc / что + CL / Rel + CL} от + Sgen
+Snom V от + имени + Sgen
+будет с + Sgen
+Snom V Sacc {из-под + земли / со + дна + морского}
+Snom V Sacc {за + душу / за + живое}
+Snom [не] V ход делу
+как V Sdat CL
+Snom V с + повинной
+{Sacc / Spart} Vimpers
+Snom _V_ с + Sins {ADV / PRгде + Sx}
+Snom V PRкуда + Sx Sins
+Snom _V_ {Sacc / о + Sloc / Conj + CL / Rel + CL} от + Sgen
+Snom V Sdat по + Sdat за + Sacc
+Sgen Vimpers {ADV / Sgen / Snom}
+Snom Vpass {в + Sloc / на + Sloc}
+Snom V {за + основу / в + основу} {Sacc / Vinf / что + CL}
+Snom V Sacc от + Sgen {ADV / PRгде + Sx}
+Snom V Sacc {в + Sacc / на + Sacc} {из + Sgen / с + Sgen}
+Snom обнаружить себя {ADV / PRгде + Sx} Ains
+Snom V Sdat Sacc в + Snom из + Sgen
+Snom V поперек + горла у + Sgen
+Snom V Sacc {в + Sloc / в + лице + Sgen}
+Snom V Sacc Sins из + Sgen
+Snom V {язык / речь}
+Snom V {ADV / PRкуда + Sx} Vinf
+Snom V Sacc на + своей + шкуре
+Snom V Sacc от + Sgen Sins
+Snom V в + копеечку Sdat
+Snom V о + Sloc с + Sgen
+Snom V Sdat {ADV / Sacc}
+Snom V Sacc Sdat {в + подарок / на + память}
+Snom V Sacc {среди + Sgen / из + Sgen}
+Snom V Sacc как + Snom
+Snom V сердце Sdat
+нелегкая принесла Sacc [там]
+Snom V {Sacc / по + Sdat}
+Snom V Sacc {ADV / на + Sacc}
+Snom V на + всем + готовом
+Snom V {бокал / тост} за + Sacc
+Snom V {в + роли + Sgen / в + образе + Sgen}
+язык [не] {повернется / повернулся} у + Sacc {сказать / спросить} [{Sacc / о + Sloc}]
+Snom V {справку / справки}
+Snom _V_ Sacc Sdat
+Snom V Sacc {из + головы / из + памяти / из + сердца}
+Snom V из + печати
+Snom не V Sacc {ADV / на + Sacc} {ADV / PRгде + Sx}
+Snom V Sacc за + скобки
+Snom V Sins в + Aloc + целях
+Snom V на + задних + лапках перед + Sins
+Snom V PRтраект + Sx
+Snom Vpass Sgen
+Snom V {себя / свои + мысли} на + {веселый / грустный} + лад
+Snom V о + Sloc Sdat
+{время / пора} V Sgen для + Sgen
+Snom V к + слову
+Snom V Sacc [{вместе / совместно}] с + Sins
+Snom обнаружить Sacc Ains
+Snom V на + путь -> Sgen
+Snom V Sacc {Sins / Ains}
+[каждый] Snom Vpartcp.act себя
+Snom танцевать на + Sloc
+Snom V {о + Sloc / что + CL / Rel + CL} по + Sdat
+Snom V на + Sloc {Sins / с + помощью Sgen}
+как быть?
+{с + чего / откуда} Snom взял?
+Snom V в + тупик
+Snom V на + руку Sdat
+Snom V Sacc с + плеч
+за + SPROins не пропадет
+Snom V в + подполье
+{душа / сердце} не лежит к + Sdat
+то и знай CL
+Snom V ADVP {ADV / PRгде + Sx}
+Snom V к + Sdat на + «Snom»
+Snom V бегом
+не исключено что + CL
+Snom V Sgen у + Sgen
+Snom V Sdat {выгодную / хорошую} + партию
+Snom V скорее Vinf1 чем Vinf2
+как Sacc [только] земля терпит
+Snom V путь {ADV / PRкуда + Sx}
+Snom V {Sgen / что + CL} от + Sgen
+Snom _V_ Sacc {ADV / PRгде + Sx}
+Snom V на + поклон к + Sdat
+Snom V {ADV / PRгде + Sx}
+Snom V Sacc {позором / стыдом / презрением}
+у + Sgen _V_ Vinf
+Vimper V1
+Snom _V_ Sins для + Sgen
+Snom V {ADV / PRкуда + Sx} {Sins / в + качестве + Sgen}
+S [V] Agen роста
+Snom на + Sacc V Vinf
+Snom V «CL» [для + Sgen]
+Vimpers
+Snom V Sacc Sdat для + Sgen
+Snom V кровью
+Snom V {ADV / PRгде + Sx} {ADV / PRкогда + Sx}
+Snom V Sacc {ADV / PRоткуда + Sx} {ADV / PRгде + Sx}
+Snom V Sacc замуж
+Snom V когда + CL Sins
+Snom V сон
+Snom V Sacc завтраками
+V Vinf
+Snom V корни [{ADV / PRгде + Sx}]
+в + Sloc Vimpers Conj + CL о + Sloc
+Snom V Sacc на + Sacc в + Sloc
+Snom обнаруживать Sacc
+Snom _V_ {ADV / Sins / PR + Sx}
+Snom пользоваться _Sins_
+Snom V в + девках
+Snom V в + сердцах
+Snom V {Sacc / что + CL} {в + Sloc / на + Sloc}
+Snom V из + мухи слона
+Snom V Sacc Sins
+Snom V на + Sacc
+Snom V {Ains / Acomp / Sins} {с + виду / на + вид}
+очередь V -&gt; Sgen
+Snom V Sins {ADV / PRгде + Sx}
+Snom _V_ Sacc в + Sloc
+Snom V в + жилетку Sdat
+Snom V глаза
+Snom V тень на + плетень
+Snom V Sins Sdat
+день на + день не приходится
+{господи / боже} сохрани!
+Snom V Sacc за + Sins
+Snom V с + неба на + землю
+Snom V о + Sloc Sins
+Snom V дорогу {ADV / PRкуда + Sx}
+Snom V Sacc с + Sins {ADV / PRкуда + Sx}
+Snom V Sacc {Sins / на + Sloc}
+Snom V в + корень
+Snom V шаг
+Snom V Sacc {Sdat / перед + Sins} {ADV / PRгде + Sx}
+Snom [не] V {вид / виду}, [что + CL]
+Snom V Vinf за + Sacc
+Snom _V_ Vinf перед + Sins
+«CL» Snom V
+Snom _V_ против + Sgen
+Snom V Sdat {Conj + CL / CL }
+Snom V сухим из + воды
+Snom обнаружить Sacc Sins
+вопрос стал ребром
+Snom V {в + Aloc + глазах / в + Aloc + мнении}
+Snom дать V Sdat о + Sloc
+Snom V CL себе
+[не] [Snom] _Vimper_ [ли] Vinf
+Snom V Sacc на + руки
+Snom V на + Sacc одним + глазом
+Snom V {ADV / Sacc} {как + Snom / в + качестве + Sgen}
+V нечего CL
+Snom V в + прах
+Snom V в + себя
+Snom V вид что + CL
+Vinf Sacc
+Snom V с + Sins {ADV / PRкуда + Sx}
+Snom V Sacc за + тридцать + серебренников
+Snom V на + Sacc как на + Sacc
+как Vimpers Sdat, CL
+Snom V по + Sdat от + Sgen
+Snom V Sacc {ADV / PRоткуда + Sx} [Sdat]
+Snom выложить Sacc {ADV / PRкуда + Sx}
+будь ты проклят!
+Snom V Sacc как + Sacc
+Vimpers {ADV / Num} -&gt; Sgen
+Snom V {Sacc / Sins / PR + Sx}
+Snom V {ADV / Sacc} на + Sacc
+Snom V карту
+Snom V {основы / фундамент} -> Sgen
+Snom V себе отчет в + Sloc
+Snom V на + Sacc сквозь + розовые + очки
+Snom V Sacc {ADV / PRкуда + Sx} Sins
+Snom V {свою + душу / свое + сердце} {Sdat / перед + Sins}
+Snom V под + руку Sdat
+Snom V общий + язык с + Sins
+Snom V Sacc {в + Sloc / среди + Sgen}
+Snom V глаза на + Sacc
+Snom V на + страже + Sgen
+что называется CL
+Snom V голос {против + Sgen / за + Sacc}
+Snom V головой
+{гуляй / ешь / пей} - не хочу
+Snom V Sacc на + Sacc Sdat
+Snom V пари CL
+Snom V за + решеткой
+Snom V {Aacc + балл / Aacc + отметку} Sdat
+Snom V {Sacc / Spart} в + Sacc
+стало быть, CL
+Snom V Anom
+Snom V на + горло Sdat
+Snom V с + Sgen за + Sacc
+Snom V на + мель
+Snom V за + Sacc ADV
+Snom V Sacc в + архив
+Snom V на + приколе
+Snom V Sins Rel + CL
+Snom V CLi
+Snom открыть Sacc для + себя
+так Vimpers {до + Sgen / пока + CL}
+Snom V под + гарантию Sacc
+V Sacc мало
+Snom V Sdat Sacc в + Snom
+Snom V {гримасы / рожу} Sdat
+Snom V Sacc в + пользу + Sgen
+Vimpers Conj + CL
+{молва / речь / слух} V про + Sacc
+вот {видишь / видите} CL
+Snom V без + вести
+Sacc Vimpers {ADV / PRгде + Sx}
+Snom V Sacc на + песке
+Sacc Vimpers Conj + CL
+Snom V как вол
+Snom и в + ус не V
+не было печали - [так] черти накачали
+Snom V Sacc в + свет
+Snom V Sacc с + Sgen на + Sacc
+Snom V Sacc над + Sins
+Snom V {ADV / по + Sdat} Sdat
+Sacc Vimpers PRоткуда + Sx PRкуда + Sy
+Snom V Sacc Anom
+Snom V {ADV / PRоткуда + Sx}
+Snom V Sins [по + Sdat]
+Snom V в + Sloc как + Snom
+Snom V [от + Sgen]
+Snom V Sins PRгде + Sx
+Snom V у + Sgen от + Sgen
+как попало V
+Snom V по + миру
+Snom V за + Sins {ADV / PRкуда + Sx}
+_Vinf_ Snom Vpraet
+Snom V к + Sdat ADV
+Snom V Sdat от + Sgen
+Snom V APROacc + хлеб-соль
+Snom V Sacc [Sins]
+Snom V Sacc {ADV / PRкуда + Sx} для + Sgen
+Snom V {Ains / Acomp}
+Snom V Sacc головой
+как V Sdat Snom, CL
+Snom V {в + руки / в + лапы / в + когти} Sdat
+Snom V {завесу / покров} -> Sgen с + Sgen
+Snom V, не покладая рук
+Snom V [верхом] на + Sloc
+Snom V козла в + огород
+Snom V {из + Sgen / от + Sgen} по + Sdat
+Vpartcppass.praes S
+Snom _V_ Rel + CL
+Snom V Sacc {ADV / в + долг}
+Snom V инициативу в + Sloc
+Snom обойдется в + копеечку Sdat
+Snom Sdat палец в + рот не клади
+Snom V {от + Sgen / с + Sgen}
+Snom V Vinf
+Snom V {ADV / Sacc} {ADV / PR + Sx}
+Snom V хвост пистолетом
+Snom V в + лужу
+CL ешь — не хочу!
+Snom иметь _Sacc_ у + Sgen
+Snom V Sacc по + миру
+Snom V Sins Sacc
+Snom V {Ains / один / Sins} {ADV / PRгде + Sx}
+в + Sloc Vimpers от + Sgen
+Snom V CLi у + Sgen
+Snom V Vinf чем Vinf
+Snom _V_ Sacc на + Sloc Sdat
+Snom V Rel + CL Sdat
+Snom _V_ {ADV / Sins}
+Snom V боком Sdat
+от + Sgen Vimpers что + CL
+Snom V ADV с + Sins
+Snom V ADVPRO
+Snom V Sacc под + стражу
+что + CL Vimpers Sins
+Snom V Sacc в + дураках
+Snom V позиции
+Snom V {от + Sgen / с + Sgen} до + Sgen
+как Snom {живешь-можешь / живете-можете}?
+Snom _V_ Sacc {ADV / PRкуда + Sx}
+Snom V {в + Sacc / на + Sacc} {ADV / PRкуда + Sx}
+Snom V Sacc на + веру
+что значит Snom
+Snom V на + Sloc по + Sdat
+в + Sloc Vimpers Conj + CL
+Snom V Sacc слова
+Snom V Sacc о + Sloc
+Snom V [{Aacc / Sgen}] роль среди + Sgen
+Snom V на + голове
+Snom V [Sacc] Sins
+Snom V Sacc за + собой
+Sacc Vimpers CLi
+Snom V под + начало Sacc
+Snom V под + ружьем
+Sdat ADV Vinf
+Vimpers ADV
+Snom V Sacc {со + счета / со + счетов}
+Snom V в + золоте
+Vimpers Sins
+Snom V Sacc {в + свидетели / в + судьи}
+Snom V Sacc на + себя
+Snom V {Sins / по + Sdat}
+Snom V Sacc PRоткуда + Sx PRкуда + Sy
+Snom _V_ {Sacc / Spart} за + Sacc
+Snom V [Sacc] {за + душу / за + сердце}
+Snom V в + рот Sdat
+Snom V из + уст + Sgen на + Sloc
+Snom V ответ перед + Sins
+Snom и ухом не V
+CL Conj [там] поминай как [SPROacc] звали
+Snom V под + себя
+так Vpartcp.pass.present S
+Snom V Sdat Vinf
+Snom V Sins {ради + Sgen / в + угоду + Sdat}
+Snom V вещи своими + именами
+Snom V {ADV / Sacc / до + Sgen} на + Sloc
+Snom V [{жирную / последнюю}] + точку на + Sloc
+Snom V PRкуда + Sacc
+APRO очередь V
+Snom _V_ {ADV / PRоткуда + Sx}
+Snom V {на + экран / на + экраны}
+Snom V Sacc {к + Sdat / на + Sacc}
+Sgen Vimpers {ADV / Sgen / Snom} {ADV / PRгде + Sx}
+Snom любить себя
+Snom V не успел как + CL
+Snom V лапша на + уши Sdat про + Sacc
+Snom V Sacc {из + Sgen / среди + Sgen}
+Snom V Sacc {ADV / за + Sacc} Sdat
+Snom V {в + защиту + Sgen / на + стороне + Sgen / в + пользу + Sgen}
+Snom V себе труд Vinf
+Snom V {Vinf / чтобы + CL / «CL»} Sdat
+Sdat Vimpers с + Sins
+{Sacc / в + Sloc} Vimpers
+Snom V Sacc {на + мушку / на + прицел}
+Snom V {Sdat / для + Sgen}
+{Snom / Rel + CL} V Sdat
+Snom V на + второй + год
+Snom [не] V Sacc на + порог
+Snom танцевать перед + Sins
+Snom V {из-за + Sgen / от + Sgen}
+Snom V среди + Sgen Sins
+V Snom в + Sacc
+Snom V {с + Sins / PR + Sx}
+Snom V NUMgen + Sgen
+Snom V между + рук
+короче Vger CL
+Snom V {Sacc / о + Sloc / Rel + CL / CL} {PRгде + Sx / у + Sgen}
+Snom V {ADV / PRгде + Sx} о + Sloc
+Snom [не] V в + долгу [{перед + Sins / у + Sgen}]
+Snom V {ворон / галок}
+Snom V, как курица лапой
+Snom V в + APROloc + глазах
+CL чего душа хочет
