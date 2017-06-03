@@ -1,0 +1,46 @@
+{% if lang == 'ru' %}
+{% extends "base.html" %}
+{% else %}
+{% extends "base_EN.html" %}
+{% endif %}
+{% block content %}
+{% autoescape false %}
+
+<div class="page-header">
+  <h2>
+    {% if lang == 'ru' %}
+    Примеры для коллокации №
+    {% else %}
+    Examples for collocation #
+    {% endif %}
+    {{id_col}}
+  </h2>
+  <h4>
+    <i>{{title_example}}</i>
+  </h4>
+</div>
+
+{% for example in para %}
+<table class="table table-striped">
+<tbody>
+  {% if example[0].startswith('ru') %}
+    <tr><td>{{example[0].strip('en ').strip('ru ')}}</td></tr>
+    <tr><td>{{example[1].strip('en ').strip('ru ')}}</td></tr>
+  {% else %}
+    <tr><td>{{example[1].strip('en ').strip('ru ')}}</td></tr>
+    <tr><td>{{example[0].strip('en ').strip('ru ')}}</td></tr>
+  {% endif %}
+</tbody>
+</table>
+{% endfor %}
+
+{% for example in mono %}
+<table class="table table-striped">
+  <tbody>
+    <tr><td>{{example}}</td></tr>
+  </tbody>
+</table>
+{% endfor %}
+
+{% endautoescape %}
+{% endblock %}

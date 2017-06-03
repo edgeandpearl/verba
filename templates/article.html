@@ -1,0 +1,62 @@
+{% if lang == 'ru' %}
+{% extends "base.html" %}
+{% else %}
+{% extends "base_EN.html" %}
+{% endif %}
+{% block content %}
+{{ ru|safe }}
+
+<div class="page-header">
+  <h1>{{lemma}}</h1><h3><span class="label label-success">{{le}} {% if lang == 'ru' %}коллокаций найдено{% else %}collocations found{% endif %}</span></h3>
+</div>
+
+<div class="container-fluid">
+
+  <div class="row">
+    {% for i in range(le)%}
+      {% if not collocations[i]['num'].startswith('99i') %}
+        <p><div class="number">{{collocations[i]['num']}}&nbsp;</div>
+          {% for a in arguments[i+1] %}
+            {% if a['oblig'] %}
+              <div class="oblig_word">{{a['form_repr']}}</div>
+            {% else %}
+              <div class="opt_word">{{a['form_repr']}}</div>
+            {% endif %}
+            {% if arguments[i+1][-1] != a %}
+              +
+            {% endif %}
+          {% endfor %}
+        </p>
+        <div class="title_example">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{collocations[i]['title_example']}}</div>
+    &nbsp;&nbsp;&nbsp;<a href="/examples?id_col={{collocations[i]['id_col']}}&lemma={{lemma}}&lang={{lang}}" target="_blank" ><i>{% if lang == 'ru' %}Смотреть другие примеры...{% else %}More examples...{% endif %}</i></a>
+    <p>
+          <table border="0" style="color: gray">
+            <tbody>
+              {% for a in arguments[i+1] %}
+              <tr>
+                {% if a['sem_restr'] != '-' %}
+                  {% if lang == 'en' %}
+                  <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>{{a['form_repr']}}</td><td>&nbsp;&mdash;&nbsp;</td><td><i>{{trans_sem_restr[a['sem_restr']]}}</i></td>
+                  {% else %}
+                  <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>{{a['form_repr']}}</td><td>&nbsp;&mdash;&nbsp;</td><td><i>{{a['sem_restr']}}</i></td>
+                  {% endif %}
+                {% endif %}
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+    </p>
+    <br>
+    {% endif %}
+    {% endfor %}
+    <div class="page-header"></div>
+    {% for i in range(le)%}
+      {% if collocations[i]['num'].startswith('99i') %}
+        <p><div class="number">⬥&nbsp;</div><div class="idiom"> {{collocations[i]['title_example']}}</div>
+        <br>
+      {% endif %}
+    {% endfor %}
+   </div>
+  </div>
+</div>
+{% endblock %}
